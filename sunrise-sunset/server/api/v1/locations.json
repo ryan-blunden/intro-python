@@ -1,0 +1,4892 @@
+[
+    {
+        "state": "Washington",
+        "city": "Acme",
+        "lat": "48.7170574",
+        "lng": "-122.2051584"
+    },
+    {
+        "state": "Washington",
+        "city": "Birch Bay",
+        "lat": "48.9178883",
+        "lng": "-122.7446219"
+    },
+    {
+        "state": "Washington",
+        "city": "Maple Falls",
+        "lat": "48.9242888",
+        "lng": "-122.077093"
+    },
+    {
+        "state": "Washington",
+        "city": "Geneva",
+        "lat": "48.7456654",
+        "lng": "-122.4018329"
+    },
+    {
+        "state": "Washington",
+        "city": "Glacier",
+        "lat": "48.8901226",
+        "lng": "-121.9457016"
+    },
+    {
+        "state": "Washington",
+        "city": "Kendall",
+        "lat": "48.9170653",
+        "lng": "-122.1359842"
+    },
+    {
+        "state": "Washington",
+        "city": "Inchelium",
+        "lat": "48.2968364",
+        "lng": "-118.1966585"
+    },
+    {
+        "state": "Washington",
+        "city": "Clear Lake",
+        "lat": "48.4642735",
+        "lng": "-122.2340447"
+    },
+    {
+        "state": "Washington",
+        "city": "Conway",
+        "lat": "48.3403804",
+        "lng": "-122.3429343"
+    },
+    {
+        "state": "Washington",
+        "city": "Alger",
+        "lat": "48.6198313",
+        "lng": "-122.3412734"
+    },
+    {
+        "state": "Washington",
+        "city": "Big Lake",
+        "lat": "48.4028827",
+        "lng": "-122.2412653"
+    },
+    {
+        "state": "Washington",
+        "city": "Edison",
+        "lat": "48.5623293",
+        "lng": "-122.4437767"
+    },
+    {
+        "state": "Washington",
+        "city": "Marblemount",
+        "lat": "48.527619",
+        "lng": "-121.4495729"
+    },
+    {
+        "state": "Washington",
+        "city": "Freeland",
+        "lat": "48.009537",
+        "lng": "-122.525983"
+    },
+    {
+        "state": "Washington",
+        "city": "Blyn",
+        "lat": "48.022313",
+        "lng": "-123.0060075"
+    },
+    {
+        "state": "Washington",
+        "city": "Carlsborg",
+        "lat": "48.0906477",
+        "lng": "-123.1721233"
+    },
+    {
+        "state": "Washington",
+        "city": "Alderwood Manor",
+        "lat": "47.8220414",
+        "lng": "-122.2820746"
+    },
+    {
+        "state": "Washington",
+        "city": "Cathcart",
+        "lat": "47.847876",
+        "lng": "-122.099294"
+    },
+    {
+        "state": "Washington",
+        "city": "Machias",
+        "lat": "47.9814869",
+        "lng": "-122.045963"
+    },
+    {
+        "state": "Washington",
+        "city": "Maltby",
+        "lat": "47.8050984",
+        "lng": "-122.1131816"
+    },
+    {
+        "state": "Washington",
+        "city": "Brinnon",
+        "lat": "47.679259",
+        "lng": "-122.8982142"
+    },
+    {
+        "state": "Washington",
+        "city": "Country Homes",
+        "lat": "47.7485023",
+        "lng": "-117.4043851"
+    },
+    {
+        "state": "Washington",
+        "city": "Manchester",
+        "lat": "47.5559302",
+        "lng": "-122.5448558"
+    },
+    {
+        "state": "Washington",
+        "city": "Indianola",
+        "lat": "47.7470409",
+        "lng": "-122.525692"
+    },
+    {
+        "state": "Washington",
+        "city": "Kingston",
+        "lat": "47.7987072",
+        "lng": "-122.4981921"
+    },
+    {
+        "state": "Washington",
+        "city": "Baring",
+        "lat": "47.7731614",
+        "lng": "-121.485382"
+    },
+    {
+        "state": "Washington",
+        "city": "Bryn Mawr-Skyway",
+        "lat": "47.4947298",
+        "lng": "-122.2414215"
+    },
+    {
+        "state": "Washington",
+        "city": "Eastgate",
+        "lat": "47.572663",
+        "lng": "-122.145783"
+    },
+    {
+        "state": "Washington",
+        "city": "Fall City",
+        "lat": "47.5673238",
+        "lng": "-121.8887269"
+    },
+    {
+        "state": "Washington",
+        "city": "Greenwater",
+        "lat": "47.1559405",
+        "lng": "-121.6503772"
+    },
+    {
+        "state": "Washington",
+        "city": "Hobart",
+        "lat": "47.4217682",
+        "lng": "-121.972893"
+    },
+    {
+        "state": "Washington",
+        "city": "Easton",
+        "lat": "47.23706",
+        "lng": "-121.1789787"
+    },
+    {
+        "state": "Washington",
+        "city": "Cohassett Beach",
+        "lat": "46.8684241",
+        "lng": "-124.1118392"
+    },
+    {
+        "state": "Washington",
+        "city": "Copalis Beach",
+        "lat": "47.1125857",
+        "lng": "-124.1737879"
+    },
+    {
+        "state": "Washington",
+        "city": "Brady",
+        "lat": "46.995929",
+        "lng": "-123.5118286"
+    },
+    {
+        "state": "Washington",
+        "city": "Central Park",
+        "lat": "46.973428",
+        "lng": "-123.6923862"
+    },
+    {
+        "state": "Washington",
+        "city": "Markham",
+        "lat": "46.9053693",
+        "lng": "-123.9976703"
+    },
+    {
+        "state": "Washington",
+        "city": "Grayland",
+        "lat": "46.8100926",
+        "lng": "-124.0932273"
+    },
+    {
+        "state": "Washington",
+        "city": "Humptulips",
+        "lat": "47.2328651",
+        "lng": "-123.9593406"
+    },
+    {
+        "state": "Washington",
+        "city": "Junction City",
+        "lat": "46.9709272",
+        "lng": "-123.7734986"
+    },
+    {
+        "state": "Washington",
+        "city": "Ashford",
+        "lat": "46.7584413",
+        "lng": "-122.0309409"
+    },
+    {
+        "state": "Washington",
+        "city": "Elbe",
+        "lat": "46.7648288",
+        "lng": "-122.1937212"
+    },
+    {
+        "state": "Washington",
+        "city": "Graham",
+        "lat": "47.0528789",
+        "lng": "-122.2942839"
+    },
+    {
+        "state": "Washington",
+        "city": "Grand Mound",
+        "lat": "46.7878787",
+        "lng": "-123.0112469"
+    },
+    {
+        "state": "Washington",
+        "city": "Ahtanum",
+        "lat": "46.5595702",
+        "lng": "-120.6220123"
+    },
+    {
+        "state": "Washington",
+        "city": "Eschbach",
+        "lat": "46.6695699",
+        "lng": "-120.6311804"
+    },
+    {
+        "state": "Washington",
+        "city": "Gleed",
+        "lat": "46.6581812",
+        "lng": "-120.6134021"
+    },
+    {
+        "state": "Washington",
+        "city": "Chinook",
+        "lat": "46.2728802",
+        "lng": "-123.9454273"
+    },
+    {
+        "state": "Washington",
+        "city": "Bay Center",
+        "lat": "46.631487",
+        "lng": "-123.9548872"
+    },
+    {
+        "state": "Washington",
+        "city": "Lebam",
+        "lat": "46.5589919",
+        "lng": "-123.5490433"
+    },
+    {
+        "state": "Washington",
+        "city": "Fords Prairie",
+        "lat": "46.7351021",
+        "lng": "-122.9890217"
+    },
+    {
+        "state": "Washington",
+        "city": "Basin City",
+        "lat": "46.5940274",
+        "lng": "-119.1522344"
+    },
+    {
+        "state": "Washington",
+        "city": "Finley",
+        "lat": "46.1540232",
+        "lng": "-119.0338959"
+    },
+    {
+        "state": "Washington",
+        "city": "Burbank",
+        "lat": "46.1998568",
+        "lng": "-119.0130618"
+    },
+    {
+        "state": "Washington",
+        "city": "Garrett",
+        "lat": "46.0520803",
+        "lng": "-118.4027467"
+    },
+    {
+        "state": "Washington",
+        "city": "Carson",
+        "lat": "45.7253947",
+        "lng": "-121.8192443"
+    },
+    {
+        "state": "Washington",
+        "city": "Amboy",
+        "lat": "45.9101125",
+        "lng": "-122.446487"
+    },
+    {
+        "state": "Washington",
+        "city": "Barberton",
+        "lat": "45.6931723",
+        "lng": "-122.5989858"
+    },
+    {
+        "state": "Washington",
+        "city": "Brush Prairie",
+        "lat": "45.7328944",
+        "lng": "-122.5464856"
+    },
+    {
+        "state": "Washington",
+        "city": "Hockinson",
+        "lat": "45.7378945",
+        "lng": "-122.4870402"
+    },
+    {
+        "state": "Washington",
+        "city": "Bickleton",
+        "lat": "45.9979065",
+        "lng": "-120.3006062"
+    },
+    {
+        "state": "Washington",
+        "city": "Centerville",
+        "lat": "45.7531787",
+        "lng": "-120.9047882"
+    },
+    {
+        "state": "Washington",
+        "city": "Lyle",
+        "lat": "45.695954",
+        "lng": "-121.2861833"
+    },
+    {
+        "state": "Washington",
+        "city": "Maryhill",
+        "lat": "45.6870683",
+        "lng": "-120.8136737"
+    },
+    {
+        "state": "Washington",
+        "city": "Klickitat",
+        "lat": "45.8170668",
+        "lng": "-121.1525716"
+    },
+    {
+        "state": "Washington",
+        "city": "Custer",
+        "lat": "48.917334",
+        "lng": "-122.6379502"
+    },
+    {
+        "state": "Washington",
+        "city": "Deming",
+        "lat": "48.8256718",
+        "lng": "-122.21599"
+    },
+    {
+        "state": "Washington",
+        "city": "Bellingham",
+        "lat": "48.7595529",
+        "lng": "-122.4882249"
+    },
+    {
+        "state": "Washington",
+        "city": "Blaine",
+        "lat": "48.9937231",
+        "lng": "-122.7471191"
+    },
+    {
+        "state": "Washington",
+        "city": "Brewster",
+        "lat": "48.0959784",
+        "lng": "-119.7806166"
+    },
+    {
+        "state": "Washington",
+        "city": "Chewelah",
+        "lat": "48.276287",
+        "lng": "-117.7155208"
+    },
+    {
+        "state": "Washington",
+        "city": "Colville",
+        "lat": "48.5465695",
+        "lng": "-117.905537"
+    },
+    {
+        "state": "Washington",
+        "city": "Rockport",
+        "lat": "48.485671",
+        "lng": "-121.5976334"
+    },
+    {
+        "state": "Washington",
+        "city": "Anacortes",
+        "lat": "48.5126045",
+        "lng": "-122.6126718"
+    },
+    {
+        "state": "Washington",
+        "city": "Burlington",
+        "lat": "48.4756621",
+        "lng": "-122.3254375"
+    },
+    {
+        "state": "Washington",
+        "city": "Cashmere",
+        "lat": "47.5223465",
+        "lng": "-120.4698024"
+    },
+    {
+        "state": "Washington",
+        "city": "Chelan",
+        "lat": "47.8409698",
+        "lng": "-120.0164591"
+    },
+    {
+        "state": "Washington",
+        "city": "Sunnyslope",
+        "lat": "47.4729039",
+        "lng": "-120.3367408"
+    },
+    {
+        "state": "Washington",
+        "city": "Neah Bay",
+        "lat": "48.3681223",
+        "lng": "-124.6249602"
+    },
+    {
+        "state": "Washington",
+        "city": "Silvana",
+        "lat": "48.2023214",
+        "lng": "-122.2537589"
+    },
+    {
+        "state": "Washington",
+        "city": "Oso",
+        "lat": "48.2706603",
+        "lng": "-121.9295813"
+    },
+    {
+        "state": "Washington",
+        "city": "Three Lakes",
+        "lat": "47.9448208",
+        "lng": "-122.0115166"
+    },
+    {
+        "state": "Washington",
+        "city": "Verlot",
+        "lat": "48.0903816",
+        "lng": "-121.7773486"
+    },
+    {
+        "state": "Washington",
+        "city": "Warm Beach",
+        "lat": "48.1706535",
+        "lng": "-122.3645953"
+    },
+    {
+        "state": "Washington",
+        "city": "Arlington",
+        "lat": "48.1987118",
+        "lng": "-122.1251418"
+    },
+    {
+        "state": "Washington",
+        "city": "Brier",
+        "lat": "47.7845419",
+        "lng": "-122.2742948"
+    },
+    {
+        "state": "Washington",
+        "city": "Startup",
+        "lat": "47.86788",
+        "lng": "-121.7403963"
+    },
+    {
+        "state": "Washington",
+        "city": "Bridgeport",
+        "lat": "48.0081999",
+        "lng": "-119.671164"
+    },
+    {
+        "state": "Washington",
+        "city": "Port Ludlow",
+        "lat": "47.9253693",
+        "lng": "-122.6834913"
+    },
+    {
+        "state": "Washington",
+        "city": "Quilcene",
+        "lat": "47.8223137",
+        "lng": "-122.8757199"
+    },
+    {
+        "state": "Washington",
+        "city": "Cheney",
+        "lat": "47.4873895",
+        "lng": "-117.5757622"
+    },
+    {
+        "state": "Washington",
+        "city": "Airway Heights",
+        "lat": "47.644611",
+        "lng": "-117.5932728"
+    },
+    {
+        "state": "Washington",
+        "city": "Deer Park",
+        "lat": "47.9543375",
+        "lng": "-117.476891"
+    },
+    {
+        "state": "Washington",
+        "city": "Davenport",
+        "lat": "47.6540456",
+        "lng": "-118.149973"
+    },
+    {
+        "state": "Washington",
+        "city": "Silverdale",
+        "lat": "47.6445386",
+        "lng": "-122.6948697"
+    },
+    {
+        "state": "Washington",
+        "city": "Navy Yard City",
+        "lat": "47.5534282",
+        "lng": "-122.6645847"
+    },
+    {
+        "state": "Washington",
+        "city": "Tracyton",
+        "lat": "47.6089838",
+        "lng": "-122.6551426"
+    },
+    {
+        "state": "Washington",
+        "city": "Bainbridge Island",
+        "lat": "47.6262081",
+        "lng": "-122.5212448"
+    },
+    {
+        "state": "Washington",
+        "city": "Bremerton",
+        "lat": "47.5673176",
+        "lng": "-122.6326391"
+    },
+    {
+        "state": "Washington",
+        "city": "Suquamish",
+        "lat": "47.7312073",
+        "lng": "-122.552361"
+    },
+    {
+        "state": "Washington",
+        "city": "Ravensdale",
+        "lat": "47.3523235",
+        "lng": "-121.9837251"
+    },
+    {
+        "state": "Washington",
+        "city": "Clyde Hill",
+        "lat": "47.6317656",
+        "lng": "-122.2179015"
+    },
+    {
+        "state": "Washington",
+        "city": "Vashon",
+        "lat": "47.4473205",
+        "lng": "-122.4598502"
+    },
+    {
+        "state": "Washington",
+        "city": "Algona",
+        "lat": "47.2789896",
+        "lng": "-122.2520647"
+    },
+    {
+        "state": "Washington",
+        "city": "Auburn",
+        "lat": "47.3073228",
+        "lng": "-122.2284532"
+    },
+    {
+        "state": "Washington",
+        "city": "Bellevue",
+        "lat": "47.610377",
+        "lng": "-122.2006786"
+    },
+    {
+        "state": "Washington",
+        "city": "Black Diamond",
+        "lat": "47.3087121",
+        "lng": "-122.0031691"
+    },
+    {
+        "state": "Washington",
+        "city": "Bothell",
+        "lat": "47.7623204",
+        "lng": "-122.2054035"
+    },
+    {
+        "state": "Washington",
+        "city": "Burien",
+        "lat": "47.4703768",
+        "lng": "-122.3467918"
+    },
+    {
+        "state": "Washington",
+        "city": "Carnation",
+        "lat": "47.6478787",
+        "lng": "-121.9140073"
+    },
+    {
+        "state": "Washington",
+        "city": "Issaquah",
+        "lat": "47.5301011",
+        "lng": "-122.0326191"
+    },
+    {
+        "state": "Washington",
+        "city": "Kenmore",
+        "lat": "47.7573202",
+        "lng": "-122.2440148"
+    },
+    {
+        "state": "Washington",
+        "city": "Kent",
+        "lat": "47.3809335",
+        "lng": "-122.2348431"
+    },
+    {
+        "state": "Washington",
+        "city": "Covington",
+        "lat": "47.358182",
+        "lng": "-122.122155"
+    },
+    {
+        "state": "Washington",
+        "city": "Des Moines",
+        "lat": "47.4017661",
+        "lng": "-122.3242902"
+    },
+    {
+        "state": "Washington",
+        "city": "Duvall",
+        "lat": "47.7423218",
+        "lng": "-121.9856781"
+    },
+    {
+        "state": "Washington",
+        "city": "Skokomish",
+        "lat": "47.3334263",
+        "lng": "-123.1573772"
+    },
+    {
+        "state": "Washington",
+        "city": "Ronald",
+        "lat": "47.2351185",
+        "lng": "-121.0234182"
+    },
+    {
+        "state": "Washington",
+        "city": "Thorp",
+        "lat": "47.0679018",
+        "lng": "-120.671185"
+    },
+    {
+        "state": "Washington",
+        "city": "Cle Elum",
+        "lat": "47.1953976",
+        "lng": "-120.939249"
+    },
+    {
+        "state": "Washington",
+        "city": "Vantage",
+        "lat": "46.9454095",
+        "lng": "-119.9872748"
+    },
+    {
+        "state": "Washington",
+        "city": "Moclips",
+        "lat": "47.2361952",
+        "lng": "-124.2129577"
+    },
+    {
+        "state": "Washington",
+        "city": "Neilton",
+        "lat": "47.4128646",
+        "lng": "-123.8804544"
+    },
+    {
+        "state": "Washington",
+        "city": "Ocean City",
+        "lat": "47.0709194",
+        "lng": "-124.1660091"
+    },
+    {
+        "state": "Washington",
+        "city": "Satsop",
+        "lat": "47.0031512",
+        "lng": "-123.4834945"
+    },
+    {
+        "state": "Washington",
+        "city": "Aberdeen",
+        "lat": "46.9753708",
+        "lng": "-123.8157218"
+    },
+    {
+        "state": "Washington",
+        "city": "Taholah",
+        "lat": "47.3473047",
+        "lng": "-124.29324"
+    },
+    {
+        "state": "Washington",
+        "city": "Cosmopolis",
+        "lat": "46.955372",
+        "lng": "-123.7737763"
+    },
+    {
+        "state": "Washington",
+        "city": "Spanaway",
+        "lat": "47.103988",
+        "lng": "-122.4345661"
+    },
+    {
+        "state": "Washington",
+        "city": "Midland",
+        "lat": "47.1670439",
+        "lng": "-122.4048441"
+    },
+    {
+        "state": "Washington",
+        "city": "Parkland",
+        "lat": "47.1553769",
+        "lng": "-122.4340113"
+    },
+    {
+        "state": "Washington",
+        "city": "Bonney Lake",
+        "lat": "47.1770457",
+        "lng": "-122.1865056"
+    },
+    {
+        "state": "Washington",
+        "city": "Buckley",
+        "lat": "47.1631573",
+        "lng": "-122.0267787"
+    },
+    {
+        "state": "Washington",
+        "city": "Summit",
+        "lat": "47.1617666",
+        "lng": "-122.3570651"
+    },
+    {
+        "state": "Washington",
+        "city": "DuPont",
+        "lat": "47.0967638",
+        "lng": "-122.6312391"
+    },
+    {
+        "state": "Washington",
+        "city": "Colfax",
+        "lat": "46.8801655",
+        "lng": "-117.3643495"
+    },
+    {
+        "state": "Washington",
+        "city": "Rochester",
+        "lat": "46.8217664",
+        "lng": "-123.0962516"
+    },
+    {
+        "state": "Washington",
+        "city": "White Swan",
+        "lat": "46.3829037",
+        "lng": "-120.7311801"
+    },
+    {
+        "state": "Washington",
+        "city": "Terrace Heights",
+        "lat": "46.6062383",
+        "lng": "-120.4397854"
+    },
+    {
+        "state": "Washington",
+        "city": "Naselle",
+        "lat": "46.3653817",
+        "lng": "-123.8107056"
+    },
+    {
+        "state": "Washington",
+        "city": "Ocean Park",
+        "lat": "46.4914875",
+        "lng": "-124.0501628"
+    },
+    {
+        "state": "Washington",
+        "city": "Tokeland",
+        "lat": "46.7064856",
+        "lng": "-123.9818347"
+    },
+    {
+        "state": "Washington",
+        "city": "Ilwaco",
+        "lat": "46.3089891",
+        "lng": "-124.0432099"
+    },
+    {
+        "state": "Washington",
+        "city": "Centralia",
+        "lat": "46.7162136",
+        "lng": "-122.9542972"
+    },
+    {
+        "state": "Washington",
+        "city": "Chehalis",
+        "lat": "46.6620478",
+        "lng": "-122.9640175"
+    },
+    {
+        "state": "Washington",
+        "city": "Kahlotus",
+        "lat": "46.643197",
+        "lng": "-118.5569314"
+    },
+    {
+        "state": "Washington",
+        "city": "Connell",
+        "lat": "46.6634733",
+        "lng": "-118.8611117"
+    },
+    {
+        "state": "Washington",
+        "city": "Benton City",
+        "lat": "46.2631897",
+        "lng": "-119.487802"
+    },
+    {
+        "state": "Washington",
+        "city": "Kennewick",
+        "lat": "46.2112458",
+        "lng": "-119.1372338"
+    },
+    {
+        "state": "Washington",
+        "city": "Dayton",
+        "lat": "46.3237525",
+        "lng": "-117.9724367"
+    },
+    {
+        "state": "Washington",
+        "city": "Dixie",
+        "lat": "46.1401386",
+        "lng": "-118.1552297"
+    },
+    {
+        "state": "Washington",
+        "city": "Touchet",
+        "lat": "46.0398567",
+        "lng": "-118.6722078"
+    },
+    {
+        "state": "Washington",
+        "city": "Wallula",
+        "lat": "46.0854121",
+        "lng": "-118.9052776"
+    },
+    {
+        "state": "Washington",
+        "city": "College Place",
+        "lat": "46.0493026",
+        "lng": "-118.3883012"
+    },
+    {
+        "state": "Washington",
+        "city": "Clarkston",
+        "lat": "46.4162724",
+        "lng": "-117.0451581"
+    },
+    {
+        "state": "Washington",
+        "city": "Asotin",
+        "lat": "46.3393265",
+        "lng": "-117.0482116"
+    },
+    {
+        "state": "Washington",
+        "city": "Castle Rock",
+        "lat": "46.2751111",
+        "lng": "-122.9076141"
+    },
+    {
+        "state": "Washington",
+        "city": "Kalama",
+        "lat": "46.0084472",
+        "lng": "-122.8445509"
+    },
+    {
+        "state": "Washington",
+        "city": "Kelso",
+        "lat": "46.146779",
+        "lng": "-122.9084445"
+    },
+    {
+        "state": "Washington",
+        "city": "Dollars Corner",
+        "lat": "45.7802365",
+        "lng": "-122.599968"
+    },
+    {
+        "state": "Washington",
+        "city": "Meadow Glade",
+        "lat": "45.7584495",
+        "lng": "-122.5603752"
+    },
+    {
+        "state": "Washington",
+        "city": "Minnehaha",
+        "lat": "45.6590058",
+        "lng": "-122.6487084"
+    },
+    {
+        "state": "Washington",
+        "city": "Orchards",
+        "lat": "45.6665063",
+        "lng": "-122.560929"
+    },
+    {
+        "state": "Washington",
+        "city": "Salmon Creek",
+        "lat": "45.7106718",
+        "lng": "-122.6489869"
+    },
+    {
+        "state": "Washington",
+        "city": "Venersborg",
+        "lat": "45.7737266",
+        "lng": "-122.4245395"
+    },
+    {
+        "state": "Washington",
+        "city": "Walnut Grove",
+        "lat": "45.6678949",
+        "lng": "-122.5989854"
+    },
+    {
+        "state": "Washington",
+        "city": "Battle Ground",
+        "lat": "45.7809491",
+        "lng": "-122.5334307"
+    },
+    {
+        "state": "Washington",
+        "city": "Camas",
+        "lat": "45.5870631",
+        "lng": "-122.3995363"
+    },
+    {
+        "state": "Washington",
+        "city": "Dallesport",
+        "lat": "45.6173426",
+        "lng": "-121.1795155"
+    },
+    {
+        "state": "Washington",
+        "city": "Roosevelt",
+        "lat": "45.742907",
+        "lng": "-120.2158771"
+    },
+    {
+        "state": "Washington",
+        "city": "Trout Lake",
+        "lat": "45.9973427",
+        "lng": "-121.528137"
+    },
+    {
+        "state": "Washington",
+        "city": "Wishram",
+        "lat": "45.6573451",
+        "lng": "-120.9667337"
+    },
+    {
+        "state": "Washington",
+        "city": "Bingen",
+        "lat": "45.7148416",
+        "lng": "-121.4645173"
+    },
+    {
+        "state": "Washington",
+        "city": "Everson",
+        "lat": "48.9201171",
+        "lng": "-122.3426588"
+    },
+    {
+        "state": "Washington",
+        "city": "Ferndale",
+        "lat": "48.8464992",
+        "lng": "-122.5910056"
+    },
+    {
+        "state": "Washington",
+        "city": "Lynden",
+        "lat": "48.9465044",
+        "lng": "-122.4521073"
+    },
+    {
+        "state": "Washington",
+        "city": "Nooksack",
+        "lat": "48.9276179",
+        "lng": "-122.3215466"
+    },
+    {
+        "state": "Washington",
+        "city": "Okanogan",
+        "lat": "48.361262",
+        "lng": "-119.5833869"
+    },
+    {
+        "state": "Washington",
+        "city": "Omak",
+        "lat": "48.4109853",
+        "lng": "-119.5275506"
+    },
+    {
+        "state": "Washington",
+        "city": "Oroville",
+        "lat": "48.9390509",
+        "lng": "-119.4356211"
+    },
+    {
+        "state": "Washington",
+        "city": "Pateros",
+        "lat": "48.0509756",
+        "lng": "-119.9034007"
+    },
+    {
+        "state": "Washington",
+        "city": "Kettle Falls",
+        "lat": "48.6107354",
+        "lng": "-118.0558218"
+    },
+    {
+        "state": "Washington",
+        "city": "Newport",
+        "lat": "48.1796277",
+        "lng": "-117.0432583"
+    },
+    {
+        "state": "Washington",
+        "city": "Republic",
+        "lat": "48.6482183",
+        "lng": "-118.7378067"
+    },
+    {
+        "state": "Washington",
+        "city": "Mount Vernon",
+        "lat": "48.421216",
+        "lng": "-122.3340474"
+    },
+    {
+        "state": "Washington",
+        "city": "Entiat",
+        "lat": "47.6759636",
+        "lng": "-120.20841"
+    },
+    {
+        "state": "Washington",
+        "city": "Leavenworth",
+        "lat": "47.5962326",
+        "lng": "-120.6614765"
+    },
+    {
+        "state": "Washington",
+        "city": "Oak Harbor",
+        "lat": "48.2931559",
+        "lng": "-122.6432245"
+    },
+    {
+        "state": "Washington",
+        "city": "Langley",
+        "lat": "48.0400945",
+        "lng": "-122.406257"
+    },
+    {
+        "state": "Washington",
+        "city": "Forks",
+        "lat": "47.950355",
+        "lng": "-124.3854867"
+    },
+    {
+        "state": "Washington",
+        "city": "Port Angeles",
+        "lat": "48.118146",
+        "lng": "-123.4307413"
+    },
+    {
+        "state": "Washington",
+        "city": "Everett",
+        "lat": "47.9789848",
+        "lng": "-122.2020794"
+    },
+    {
+        "state": "Washington",
+        "city": "Gold Bar",
+        "lat": "47.8567695",
+        "lng": "-121.6970606"
+    },
+    {
+        "state": "Washington",
+        "city": "Granite Falls",
+        "lat": "48.0839895",
+        "lng": "-121.968742"
+    },
+    {
+        "state": "Washington",
+        "city": "Lynnwood",
+        "lat": "47.8209301",
+        "lng": "-122.3151313"
+    },
+    {
+        "state": "Washington",
+        "city": "Marysville",
+        "lat": "48.0517637",
+        "lng": "-122.1770818"
+    },
+    {
+        "state": "Washington",
+        "city": "Mill Creek",
+        "lat": "47.8600971",
+        "lng": "-122.2042966"
+    },
+    {
+        "state": "Washington",
+        "city": "Monroe",
+        "lat": "47.8553772",
+        "lng": "-121.9709579"
+    },
+    {
+        "state": "Washington",
+        "city": "Mountlake Terrace",
+        "lat": "47.7881528",
+        "lng": "-122.3087405"
+    },
+    {
+        "state": "Washington",
+        "city": "Mukilteo",
+        "lat": "47.9445396",
+        "lng": "-122.3045815"
+    },
+    {
+        "state": "Washington",
+        "city": "Lake Stevens",
+        "lat": "48.015098",
+        "lng": "-122.0637425"
+    },
+    {
+        "state": "Washington",
+        "city": "East Wenatchee",
+        "lat": "47.4156824",
+        "lng": "-120.2931263"
+    },
+    {
+        "state": "Washington",
+        "city": "Rock Island",
+        "lat": "47.3770731",
+        "lng": "-120.1439523"
+    },
+    {
+        "state": "Washington",
+        "city": "Port Townsend",
+        "lat": "48.1170387",
+        "lng": "-122.7604472"
+    },
+    {
+        "state": "Washington",
+        "city": "Liberty Lake",
+        "lat": "47.6482324",
+        "lng": "-117.0924218"
+    },
+    {
+        "state": "Washington",
+        "city": "Medical Lake",
+        "lat": "47.5729426",
+        "lng": "-117.6821604"
+    },
+    {
+        "state": "Washington",
+        "city": "Ephrata",
+        "lat": "47.3176385",
+        "lng": "-119.5536491"
+    },
+    {
+        "state": "Washington",
+        "city": "George",
+        "lat": "47.0790224",
+        "lng": "-119.8558822"
+    },
+    {
+        "state": "Washington",
+        "city": "Grand Coulee",
+        "lat": "47.9415408",
+        "lng": "-119.0033548"
+    },
+    {
+        "state": "Washington",
+        "city": "Royal City",
+        "lat": "46.9009701",
+        "lng": "-119.6305912"
+    },
+    {
+        "state": "Washington",
+        "city": "Moses Lake",
+        "lat": "47.1301417",
+        "lng": "-119.2780771"
+    },
+    {
+        "state": "Washington",
+        "city": "Quincy",
+        "lat": "47.2342997",
+        "lng": "-119.8525504"
+    },
+    {
+        "state": "Washington",
+        "city": "Harrington",
+        "lat": "47.4809872",
+        "lng": "-118.2544187"
+    },
+    {
+        "state": "Washington",
+        "city": "Port Orchard",
+        "lat": "47.5403732",
+        "lng": "-122.6362492"
+    },
+    {
+        "state": "Washington",
+        "city": "Poulsbo",
+        "lat": "47.735928",
+        "lng": "-122.6465372"
+    },
+    {
+        "state": "Washington",
+        "city": "Enumclaw",
+        "lat": "47.2042681",
+        "lng": "-121.9915003"
+    },
+    {
+        "state": "Washington",
+        "city": "Federal Way",
+        "lat": "47.3223221",
+        "lng": "-122.3126222"
+    },
+    {
+        "state": "Washington",
+        "city": "Renton",
+        "lat": "47.4828776",
+        "lng": "-122.2170661"
+    },
+    {
+        "state": "Washington",
+        "city": "Maple Valley",
+        "lat": "47.392716",
+        "lng": "-122.046409"
+    },
+    {
+        "state": "Washington",
+        "city": "Medina",
+        "lat": "47.6209323",
+        "lng": "-122.2276237"
+    },
+    {
+        "state": "Washington",
+        "city": "Mercer Island",
+        "lat": "47.5706548",
+        "lng": "-122.2220673"
+    },
+    {
+        "state": "Washington",
+        "city": "Newcastle",
+        "lat": "47.5389889",
+        "lng": "-122.1556769"
+    },
+    {
+        "state": "Washington",
+        "city": "Normandy Park",
+        "lat": "47.4362103",
+        "lng": "-122.3406799"
+    },
+    {
+        "state": "Washington",
+        "city": "North Bend",
+        "lat": "47.4956579",
+        "lng": "-121.7867775"
+    },
+    {
+        "state": "Washington",
+        "city": "Pacific",
+        "lat": "47.2645452",
+        "lng": "-122.2501201"
+    },
+    {
+        "state": "Washington",
+        "city": "Redmond",
+        "lat": "47.6739882",
+        "lng": "-122.121512"
+    },
+    {
+        "state": "Washington",
+        "city": "Kirkland",
+        "lat": "47.6814876",
+        "lng": "-122.2087353"
+    },
+    {
+        "state": "Washington",
+        "city": "Lake Forest Park",
+        "lat": "47.7567644",
+        "lng": "-122.2809602"
+    },
+    {
+        "state": "Washington",
+        "city": "Beaux Arts Village",
+        "lat": "47.585326",
+        "lng": "-122.198321"
+    },
+    {
+        "state": "Washington",
+        "city": "Ellensburg",
+        "lat": "46.9965144",
+        "lng": "-120.5478474"
+    },
+    {
+        "state": "Washington",
+        "city": "Roslyn",
+        "lat": "47.2234523",
+        "lng": "-120.9931394"
+    },
+    {
+        "state": "Washington",
+        "city": "Kittitas",
+        "lat": "46.9831822",
+        "lng": "-120.4170102"
+    },
+    {
+        "state": "Washington",
+        "city": "Elma",
+        "lat": "47.0034291",
+        "lng": "-123.4087692"
+    },
+    {
+        "state": "Washington",
+        "city": "Hoquiam",
+        "lat": "46.9809247",
+        "lng": "-123.8893348"
+    },
+    {
+        "state": "Washington",
+        "city": "McCleary",
+        "lat": "47.053151",
+        "lng": "-123.2654308"
+    },
+    {
+        "state": "Washington",
+        "city": "Montesano",
+        "lat": "46.9812063",
+        "lng": "-123.6026629"
+    },
+    {
+        "state": "Washington",
+        "city": "Oakville",
+        "lat": "46.8403765",
+        "lng": "-123.2323686"
+    },
+    {
+        "state": "Washington",
+        "city": "Ocean Shores",
+        "lat": "46.9736986",
+        "lng": "-124.1562852"
+    },
+    {
+        "state": "Washington",
+        "city": "Edgewood",
+        "lat": "47.2501005",
+        "lng": "-122.293732"
+    },
+    {
+        "state": "Washington",
+        "city": "Fife",
+        "lat": "47.2392665",
+        "lng": "-122.3570664"
+    },
+    {
+        "state": "Washington",
+        "city": "Fircrest",
+        "lat": "47.2395429",
+        "lng": "-122.5159586"
+    },
+    {
+        "state": "Washington",
+        "city": "Gig Harbor",
+        "lat": "47.329264",
+        "lng": "-122.5801293"
+    },
+    {
+        "state": "Washington",
+        "city": "Roy",
+        "lat": "47.0042643",
+        "lng": "-122.539846"
+    },
+    {
+        "state": "Washington",
+        "city": "Milton",
+        "lat": "47.2481558",
+        "lng": "-122.312899"
+    },
+    {
+        "state": "Washington",
+        "city": "Orting",
+        "lat": "47.0978795",
+        "lng": "-122.2042824"
+    },
+    {
+        "state": "Washington",
+        "city": "Puyallup",
+        "lat": "47.1853785",
+        "lng": "-122.2928974"
+    },
+    {
+        "state": "Washington",
+        "city": "Lakewood",
+        "lat": "47.1717649",
+        "lng": "-122.518458"
+    },
+    {
+        "state": "Washington",
+        "city": "Ritzville",
+        "lat": "47.1273723",
+        "lng": "-118.3799751"
+    },
+    {
+        "state": "Washington",
+        "city": "Othello",
+        "lat": "46.8259742",
+        "lng": "-119.1752913"
+    },
+    {
+        "state": "Washington",
+        "city": "Palouse",
+        "lat": "46.9101688",
+        "lng": "-117.0757252"
+    },
+    {
+        "state": "Washington",
+        "city": "Pullman",
+        "lat": "46.7312745",
+        "lng": "-117.1796158"
+    },
+    {
+        "state": "Washington",
+        "city": "Olympia",
+        "lat": "47.0378741",
+        "lng": "-122.9006951"
+    },
+    {
+        "state": "Washington",
+        "city": "Lacey",
+        "lat": "47.0342629",
+        "lng": "-122.8231915"
+    },
+    {
+        "state": "Washington",
+        "city": "Grandview",
+        "lat": "46.2509653",
+        "lng": "-119.9017049"
+    },
+    {
+        "state": "Washington",
+        "city": "Granger",
+        "lat": "46.3420741",
+        "lng": "-120.1872727"
+    },
+    {
+        "state": "Washington",
+        "city": "Mabton",
+        "lat": "46.2148535",
+        "lng": "-119.9967079"
+    },
+    {
+        "state": "Washington",
+        "city": "Moxee",
+        "lat": "46.5621029",
+        "lng": "-120.3932513"
+    },
+    {
+        "state": "Washington",
+        "city": "Long Beach",
+        "lat": "46.3523219",
+        "lng": "-124.0543234"
+    },
+    {
+        "state": "Washington",
+        "city": "Raymond",
+        "lat": "46.6864887",
+        "lng": "-123.7329385"
+    },
+    {
+        "state": "Washington",
+        "city": "Morton",
+        "lat": "46.5584421",
+        "lng": "-122.2751046"
+    },
+    {
+        "state": "Washington",
+        "city": "Mossyrock",
+        "lat": "46.5295517",
+        "lng": "-122.4851112"
+    },
+    {
+        "state": "Washington",
+        "city": "Napavine",
+        "lat": "46.5745496",
+        "lng": "-122.9081782"
+    },
+    {
+        "state": "Washington",
+        "city": "Mesa",
+        "lat": "46.5762498",
+        "lng": "-119.0066733"
+    },
+    {
+        "state": "Washington",
+        "city": "Pasco",
+        "lat": "46.2395793",
+        "lng": "-119.1005657"
+    },
+    {
+        "state": "Washington",
+        "city": "Richland",
+        "lat": "46.2856907",
+        "lng": "-119.2844621"
+    },
+    {
+        "state": "Washington",
+        "city": "Prosser",
+        "lat": "46.2067997",
+        "lng": "-119.7689222"
+    },
+    {
+        "state": "Washington",
+        "city": "Pomeroy",
+        "lat": "46.4748738",
+        "lng": "-117.6026896"
+    },
+    {
+        "state": "Washington",
+        "city": "North Bonneville",
+        "lat": "45.6373393",
+        "lng": "-121.9711934"
+    },
+    {
+        "state": "Washington",
+        "city": "Longview",
+        "lat": "46.1381677",
+        "lng": "-122.9381672"
+    },
+    {
+        "state": "Washington",
+        "city": "Ridgefield",
+        "lat": "45.815115",
+        "lng": "-122.7426009"
+    },
+    {
+        "state": "Washington",
+        "city": "La Center",
+        "lat": "45.8623367",
+        "lng": "-122.6703785"
+    },
+    {
+        "state": "Washington",
+        "city": "Goldendale",
+        "lat": "45.8206794",
+        "lng": "-120.8217312"
+    },
+    {
+        "state": "Washington",
+        "city": "Sumas",
+        "lat": "49.0001217",
+        "lng": "-122.2648752"
+    },
+    {
+        "state": "Washington",
+        "city": "Tonasket",
+        "lat": "48.7051529",
+        "lng": "-119.4395039"
+    },
+    {
+        "state": "Washington",
+        "city": "Elmer City",
+        "lat": "47.9979311",
+        "lng": "-118.9544656"
+    },
+    {
+        "state": "Washington",
+        "city": "Riverside",
+        "lat": "48.5023752",
+        "lng": "-119.506439"
+    },
+    {
+        "state": "Washington",
+        "city": "Cusick",
+        "lat": "48.3374055",
+        "lng": "-117.2971655"
+    },
+    {
+        "state": "Washington",
+        "city": "Ione",
+        "lat": "48.7410261",
+        "lng": "-117.4171886"
+    },
+    {
+        "state": "Washington",
+        "city": "Friday Harbor",
+        "lat": "48.5342662",
+        "lng": "-123.0171242"
+    },
+    {
+        "state": "Washington",
+        "city": "Sedro-Woolley",
+        "lat": "48.50389",
+        "lng": "-122.23611"
+    },
+    {
+        "state": "Washington",
+        "city": "Hamilton",
+        "lat": "48.5214995",
+        "lng": "-121.9893146"
+    },
+    {
+        "state": "Washington",
+        "city": "La Conner",
+        "lat": "48.3887143",
+        "lng": "-122.4962752"
+    },
+    {
+        "state": "Washington",
+        "city": "Lyman",
+        "lat": "48.5270545",
+        "lng": "-122.0618174"
+    },
+    {
+        "state": "Washington",
+        "city": "Wenatchee",
+        "lat": "47.4234599",
+        "lng": "-120.3103494"
+    },
+    {
+        "state": "Washington",
+        "city": "Coupeville",
+        "lat": "48.2198208",
+        "lng": "-122.6862804"
+    },
+    {
+        "state": "Washington",
+        "city": "Sequim",
+        "lat": "48.0795365",
+        "lng": "-123.1018437"
+    },
+    {
+        "state": "Washington",
+        "city": "Snohomish",
+        "lat": "47.9128756",
+        "lng": "-122.0981848"
+    },
+    {
+        "state": "Washington",
+        "city": "Stanwood",
+        "lat": "48.2412107",
+        "lng": "-122.3707103"
+    },
+    {
+        "state": "Washington",
+        "city": "Sultan",
+        "lat": "47.8626013",
+        "lng": "-121.8165095"
+    },
+    {
+        "state": "Washington",
+        "city": "Darrington",
+        "lat": "48.2553867",
+        "lng": "-121.6015142"
+    },
+    {
+        "state": "Washington",
+        "city": "Index",
+        "lat": "47.8206605",
+        "lng": "-121.5551086"
+    },
+    {
+        "state": "Washington",
+        "city": "Spokane",
+        "lat": "47.6587803",
+        "lng": "-117.4260466"
+    },
+    {
+        "state": "Washington",
+        "city": "Spokane Valley",
+        "lat": "47.6732281",
+        "lng": "-117.2393748"
+    },
+    {
+        "state": "Washington",
+        "city": "Rockford",
+        "lat": "47.4521207",
+        "lng": "-117.1307471"
+    },
+    {
+        "state": "Washington",
+        "city": "Fairfield",
+        "lat": "47.3851752",
+        "lng": "-117.1715787"
+    },
+    {
+        "state": "Washington",
+        "city": "Latah",
+        "lat": "47.2815642",
+        "lng": "-117.155461"
+    },
+    {
+        "state": "Washington",
+        "city": "Soap Lake",
+        "lat": "47.389307",
+        "lng": "-119.490591"
+    },
+    {
+        "state": "Washington",
+        "city": "Warden",
+        "lat": "46.9676426",
+        "lng": "-119.0397305"
+    },
+    {
+        "state": "Washington",
+        "city": "Electric City",
+        "lat": "47.9323735",
+        "lng": "-119.0380781"
+    },
+    {
+        "state": "Washington",
+        "city": "Hartline",
+        "lat": "47.6904251",
+        "lng": "-119.1083534"
+    },
+    {
+        "state": "Washington",
+        "city": "Krupp",
+        "lat": "47.4104582",
+        "lng": "-118.9886514"
+    },
+    {
+        "state": "Washington",
+        "city": "Sprague",
+        "lat": "47.3001584",
+        "lng": "-117.9755065"
+    },
+    {
+        "state": "Washington",
+        "city": "Almira",
+        "lat": "47.7109823",
+        "lng": "-118.9408459"
+    },
+    {
+        "state": "Washington",
+        "city": "Creston",
+        "lat": "47.7584877",
+        "lng": "-118.519718"
+    },
+    {
+        "state": "Washington",
+        "city": "Reardan",
+        "lat": "47.6696057",
+        "lng": "-117.8777336"
+    },
+    {
+        "state": "Washington",
+        "city": "Sammamish",
+        "lat": "47.6417664",
+        "lng": "-122.0803998"
+    },
+    {
+        "state": "Washington",
+        "city": "SeaTac",
+        "lat": "47.4537103",
+        "lng": "-122.3217908"
+    },
+    {
+        "state": "Washington",
+        "city": "Seattle",
+        "lat": "47.6062095",
+        "lng": "-122.3320708"
+    },
+    {
+        "state": "Washington",
+        "city": "Shoreline",
+        "lat": "47.7556531",
+        "lng": "-122.3415178"
+    },
+    {
+        "state": "Washington",
+        "city": "Snoqualmie",
+        "lat": "47.5287132",
+        "lng": "-121.8253906"
+    },
+    {
+        "state": "Washington",
+        "city": "Tukwila",
+        "lat": "47.4739884",
+        "lng": "-122.2609558"
+    },
+    {
+        "state": "Washington",
+        "city": "Woodinville",
+        "lat": "47.7542651",
+        "lng": "-122.1634582"
+    },
+    {
+        "state": "Washington",
+        "city": "Hunts Point",
+        "lat": "47.6434321",
+        "lng": "-122.230124"
+    },
+    {
+        "state": "Washington",
+        "city": "Shelton",
+        "lat": "47.2150945",
+        "lng": "-123.1007066"
+    },
+    {
+        "state": "Washington",
+        "city": "Westport",
+        "lat": "46.8900903",
+        "lng": "-124.1040613"
+    },
+    {
+        "state": "Washington",
+        "city": "Sumner",
+        "lat": "47.2031566",
+        "lng": "-122.2403966"
+    },
+    {
+        "state": "Washington",
+        "city": "Tacoma",
+        "lat": "47.2528769",
+        "lng": "-122.4442906"
+    },
+    {
+        "state": "Washington",
+        "city": "University Place",
+        "lat": "47.2356536",
+        "lng": "-122.5504041"
+    },
+    {
+        "state": "Washington",
+        "city": "Eatonville",
+        "lat": "46.8673263",
+        "lng": "-122.266502"
+    },
+    {
+        "state": "Washington",
+        "city": "Ruston",
+        "lat": "47.299265",
+        "lng": "-122.5081818"
+    },
+    {
+        "state": "Washington",
+        "city": "Hatton",
+        "lat": "46.7759744",
+        "lng": "-118.8263881"
+    },
+    {
+        "state": "Washington",
+        "city": "Lind",
+        "lat": "46.9720892",
+        "lng": "-118.6152653"
+    },
+    {
+        "state": "Washington",
+        "city": "Tekoa",
+        "lat": "47.2232314",
+        "lng": "-117.0721213"
+    },
+    {
+        "state": "Washington",
+        "city": "Albion",
+        "lat": "46.7909974",
+        "lng": "-117.2504529"
+    },
+    {
+        "state": "Washington",
+        "city": "Endicott",
+        "lat": "46.9257176",
+        "lng": "-117.6829807"
+    },
+    {
+        "state": "Washington",
+        "city": "Rosalia",
+        "lat": "47.2360052",
+        "lng": "-117.3699117"
+    },
+    {
+        "state": "Washington",
+        "city": "Saint John",
+        "lat": "47.0915558",
+        "lng": "-117.5818643"
+    },
+    {
+        "state": "Washington",
+        "city": "Farmington",
+        "lat": "47.0893399",
+        "lng": "-117.0440605"
+    },
+    {
+        "state": "Washington",
+        "city": "Garfield",
+        "lat": "47.0079487",
+        "lng": "-117.1410073"
+    },
+    {
+        "state": "Washington",
+        "city": "Lamont",
+        "lat": "47.2015493",
+        "lng": "-117.9052213"
+    },
+    {
+        "state": "Washington",
+        "city": "Bucoda",
+        "lat": "46.7989899",
+        "lng": "-122.8698523"
+    },
+    {
+        "state": "Washington",
+        "city": "Tenino",
+        "lat": "46.8567663",
+        "lng": "-122.8529094"
+    },
+    {
+        "state": "Washington",
+        "city": "Tumwater",
+        "lat": "47.0073187",
+        "lng": "-122.9093063"
+    },
+    {
+        "state": "Washington",
+        "city": "Yelm",
+        "lat": "46.9420431",
+        "lng": "-122.6059582"
+    },
+    {
+        "state": "Washington",
+        "city": "Rainier",
+        "lat": "46.888155",
+        "lng": "-122.6884595"
+    },
+    {
+        "state": "Washington",
+        "city": "Selah",
+        "lat": "46.6540153",
+        "lng": "-120.5300666"
+    },
+    {
+        "state": "Washington",
+        "city": "Sunnyside",
+        "lat": "46.3237423",
+        "lng": "-120.0086538"
+    },
+    {
+        "state": "Washington",
+        "city": "Toppenish",
+        "lat": "46.3773509",
+        "lng": "-120.3086667"
+    },
+    {
+        "state": "Washington",
+        "city": "Union Gap",
+        "lat": "46.5573492",
+        "lng": "-120.4750638"
+    },
+    {
+        "state": "Washington",
+        "city": "Wapato",
+        "lat": "46.4476278",
+        "lng": "-120.4203382"
+    },
+    {
+        "state": "Washington",
+        "city": "Yakima",
+        "lat": "46.6020711",
+        "lng": "-120.5058987"
+    },
+    {
+        "state": "Washington",
+        "city": "Zillah",
+        "lat": "46.4020734",
+        "lng": "-120.2619988"
+    },
+    {
+        "state": "Washington",
+        "city": "Harrah",
+        "lat": "46.4042937",
+        "lng": "-120.5442304"
+    },
+    {
+        "state": "Washington",
+        "city": "South Bend",
+        "lat": "46.6631549",
+        "lng": "-123.8046063"
+    },
+    {
+        "state": "Washington",
+        "city": "Toledo",
+        "lat": "46.4398305",
+        "lng": "-122.846783"
+    },
+    {
+        "state": "Washington",
+        "city": "Vader",
+        "lat": "46.4026081",
+        "lng": "-122.9603966"
+    },
+    {
+        "state": "Washington",
+        "city": "Winlock",
+        "lat": "46.4912176",
+        "lng": "-122.9378983"
+    },
+    {
+        "state": "Washington",
+        "city": "West Richland",
+        "lat": "46.3043015",
+        "lng": "-119.3614092"
+    },
+    {
+        "state": "Washington",
+        "city": "Waitsburg",
+        "lat": "46.2704176",
+        "lng": "-118.1532861"
+    },
+    {
+        "state": "Washington",
+        "city": "Walla Walla",
+        "lat": "46.0645809",
+        "lng": "-118.3430209"
+    },
+    {
+        "state": "Washington",
+        "city": "Prescott",
+        "lat": "46.2995837",
+        "lng": "-118.3149677"
+    },
+    {
+        "state": "Washington",
+        "city": "Stevenson",
+        "lat": "45.6956723",
+        "lng": "-121.8845241"
+    },
+    {
+        "state": "Washington",
+        "city": "Woodland",
+        "lat": "45.9045591",
+        "lng": "-122.7439912"
+    },
+    {
+        "state": "Washington",
+        "city": "Vancouver",
+        "lat": "45.6387281",
+        "lng": "-122.6614861"
+    },
+    {
+        "state": "Washington",
+        "city": "Washougal",
+        "lat": "45.5826188",
+        "lng": "-122.3534247"
+    },
+    {
+        "state": "Washington",
+        "city": "White Salmon",
+        "lat": "45.7276194",
+        "lng": "-121.4864619"
+    },
+    {
+        "state": "Washington",
+        "city": "Nespelem",
+        "lat": "48.1671004",
+        "lng": "-118.9747476"
+    },
+    {
+        "state": "Washington",
+        "city": "Conconully",
+        "lat": "48.557371",
+        "lng": "-119.7497894"
+    },
+    {
+        "state": "Washington",
+        "city": "Coulee Dam",
+        "lat": "47.9654304",
+        "lng": "-118.9761322"
+    },
+    {
+        "state": "Washington",
+        "city": "Twisp",
+        "lat": "48.3634784",
+        "lng": "-120.122303"
+    },
+    {
+        "state": "Washington",
+        "city": "Winthrop",
+        "lat": "48.4779232",
+        "lng": "-120.1861956"
+    },
+    {
+        "state": "Washington",
+        "city": "Marcus",
+        "lat": "48.6632362",
+        "lng": "-118.068323"
+    },
+    {
+        "state": "Washington",
+        "city": "Northport",
+        "lat": "48.9160223",
+        "lng": "-117.7816505"
+    },
+    {
+        "state": "Washington",
+        "city": "Springdale",
+        "lat": "48.0573924",
+        "lng": "-117.7413489"
+    },
+    {
+        "state": "Washington",
+        "city": "Metaline",
+        "lat": "48.8504748",
+        "lng": "-117.3908003"
+    },
+    {
+        "state": "Washington",
+        "city": "Metaline Falls",
+        "lat": "48.8638091",
+        "lng": "-117.3724667"
+    },
+    {
+        "state": "Washington",
+        "city": "Concrete",
+        "lat": "48.5392813",
+        "lng": "-121.7462513"
+    },
+    {
+        "state": "Washington",
+        "city": "Mansfield",
+        "lat": "47.8115323",
+        "lng": "-119.6367141"
+    },
+    {
+        "state": "Washington",
+        "city": "Waterville",
+        "lat": "47.6470761",
+        "lng": "-120.0711788"
+    },
+    {
+        "state": "Washington",
+        "city": "Millwood",
+        "lat": "47.6812828",
+        "lng": "-117.2827102"
+    },
+    {
+        "state": "Washington",
+        "city": "Spangle",
+        "lat": "47.4273936",
+        "lng": "-117.3801986"
+    },
+    {
+        "state": "Washington",
+        "city": "Waverly",
+        "lat": "47.342674",
+        "lng": "-117.2279679"
+    },
+    {
+        "state": "Washington",
+        "city": "Mattawa",
+        "lat": "46.73791",
+        "lng": "-119.9028234"
+    },
+    {
+        "state": "Washington",
+        "city": "Coulee City",
+        "lat": "47.6112561",
+        "lng": "-119.2922499"
+    },
+    {
+        "state": "Washington",
+        "city": "Wilson Creek",
+        "lat": "47.4232005",
+        "lng": "-119.1208498"
+    },
+    {
+        "state": "Washington",
+        "city": "Odessa",
+        "lat": "47.3332023",
+        "lng": "-118.6908274"
+    },
+    {
+        "state": "Washington",
+        "city": "Wilbur",
+        "lat": "47.7587628",
+        "lng": "-118.7055589"
+    },
+    {
+        "state": "Washington",
+        "city": "Skykomish",
+        "lat": "47.7092746",
+        "lng": "-121.3601014"
+    },
+    {
+        "state": "Washington",
+        "city": "Yarrow Point",
+        "lat": "47.64621",
+        "lng": "-122.2173461"
+    },
+    {
+        "state": "Washington",
+        "city": "South Cle Elum",
+        "lat": "47.1856752",
+        "lng": "-120.9489713"
+    },
+    {
+        "state": "Washington",
+        "city": "Carbonado",
+        "lat": "47.0798248",
+        "lng": "-122.0515005"
+    },
+    {
+        "state": "Washington",
+        "city": "South Prairie",
+        "lat": "47.1392684",
+        "lng": "-122.0981691"
+    },
+    {
+        "state": "Washington",
+        "city": "Steilacoom",
+        "lat": "47.1698197",
+        "lng": "-122.6026274"
+    },
+    {
+        "state": "Washington",
+        "city": "Wilkeson",
+        "lat": "47.1053802",
+        "lng": "-122.0456673"
+    },
+    {
+        "state": "Washington",
+        "city": "Washtucna",
+        "lat": "46.7565354",
+        "lng": "-118.3105282"
+    },
+    {
+        "state": "Washington",
+        "city": "Malden",
+        "lat": "47.2287815",
+        "lng": "-117.4726928"
+    },
+    {
+        "state": "Washington",
+        "city": "Oakesdale",
+        "lat": "47.1282275",
+        "lng": "-117.2426823"
+    },
+    {
+        "state": "Washington",
+        "city": "Colton",
+        "lat": "46.56794",
+        "lng": "-117.1284985"
+    },
+    {
+        "state": "Washington",
+        "city": "Uniontown",
+        "lat": "46.5393291",
+        "lng": "-117.0876629"
+    },
+    {
+        "state": "Washington",
+        "city": "Naches",
+        "lat": "46.730958",
+        "lng": "-120.699516"
+    },
+    {
+        "state": "Washington",
+        "city": "Tieton",
+        "lat": "46.7020686",
+        "lng": "-120.7553504"
+    },
+    {
+        "state": "Washington",
+        "city": "Pe Ell",
+        "lat": "46.5703798",
+        "lng": "-123.2973663"
+    },
+    {
+        "state": "Washington",
+        "city": "Starbuck",
+        "lat": "46.5195882",
+        "lng": "-118.128845"
+    },
+    {
+        "state": "Washington",
+        "city": "Cathlamet",
+        "lat": "46.2031656",
+        "lng": "-123.3831834"
+    },
+    {
+        "state": "Washington",
+        "city": "Yacolt",
+        "lat": "45.8659467",
+        "lng": "-122.4062074"
+    },
+    {
+        "state": "Washington",
+        "city": "Disautel",
+        "lat": "48.3604327",
+        "lng": "-119.2372606"
+    },
+    {
+        "state": "Washington",
+        "city": "Keller",
+        "lat": "48.078769",
+        "lng": "-118.6850125"
+    },
+    {
+        "state": "Washington",
+        "city": "Twin Lakes",
+        "lat": "48.2621709",
+        "lng": "-118.3590549"
+    },
+    {
+        "state": "Washington",
+        "city": "Bryant",
+        "lat": "48.23899",
+        "lng": "-122.1579229"
+    },
+    {
+        "state": "Washington",
+        "city": "Clearview",
+        "lat": "47.8337092",
+        "lng": "-122.1259606"
+    },
+    {
+        "state": "Washington",
+        "city": "Meadowdale",
+        "lat": "47.852874",
+        "lng": "-122.3334669"
+    },
+    {
+        "state": "Washington",
+        "city": "Four Lakes",
+        "lat": "47.5612777",
+        "lng": "-117.5941009"
+    },
+    {
+        "state": "Washington",
+        "city": "Green Bluff",
+        "lat": "47.8273947",
+        "lng": "-117.2716024"
+    },
+    {
+        "state": "Washington",
+        "city": "Mead",
+        "lat": "47.7673923",
+        "lng": "-117.354939"
+    },
+    {
+        "state": "Washington",
+        "city": "Bethel",
+        "lat": "47.4939846",
+        "lng": "-122.6312469"
+    },
+    {
+        "state": "Washington",
+        "city": "Burley",
+        "lat": "47.417874",
+        "lng": "-122.6309669"
+    },
+    {
+        "state": "Washington",
+        "city": "Enetai",
+        "lat": "47.5848181",
+        "lng": "-122.5987489"
+    },
+    {
+        "state": "Washington",
+        "city": "Gorst",
+        "lat": "47.5253721",
+        "lng": "-122.704863"
+    },
+    {
+        "state": "Washington",
+        "city": "Hansville",
+        "lat": "47.9187044",
+        "lng": "-122.5543141"
+    },
+    {
+        "state": "Washington",
+        "city": "Keyport",
+        "lat": "47.7020396",
+        "lng": "-122.6209776"
+    },
+    {
+        "state": "Washington",
+        "city": "Lofall",
+        "lat": "47.8120379",
+        "lng": "-122.6582078"
+    },
+    {
+        "state": "Washington",
+        "city": "Seabeck",
+        "lat": "47.6395373",
+        "lng": "-122.8284874"
+    },
+    {
+        "state": "Washington",
+        "city": "Southworth",
+        "lat": "47.5120421",
+        "lng": "-122.5017972"
+    },
+    {
+        "state": "Washington",
+        "city": "Amanda Park",
+        "lat": "47.4631419",
+        "lng": "-123.8860114"
+    },
+    {
+        "state": "Washington",
+        "city": "Pacific Beach",
+        "lat": "47.2089734",
+        "lng": "-124.2032347"
+    },
+    {
+        "state": "Washington",
+        "city": "Porter",
+        "lat": "46.938986",
+        "lng": "-123.310708"
+    },
+    {
+        "state": "Washington",
+        "city": "Queets",
+        "lat": "47.5314725",
+        "lng": "-124.3384085"
+    },
+    {
+        "state": "Washington",
+        "city": "Alder",
+        "lat": "46.8003829",
+        "lng": "-122.2901126"
+    },
+    {
+        "state": "Washington",
+        "city": "Clear Lake",
+        "lat": "46.9312326",
+        "lng": "-122.2842056"
+    },
+    {
+        "state": "Washington",
+        "city": "Home",
+        "lat": "47.274818",
+        "lng": "-122.7637451"
+    },
+    {
+        "state": "Washington",
+        "city": "Kapowsin",
+        "lat": "46.9856579",
+        "lng": "-122.2256697"
+    },
+    {
+        "state": "Washington",
+        "city": "Key Center",
+        "lat": "47.3406507",
+        "lng": "-122.7454131"
+    },
+    {
+        "state": "Washington",
+        "city": "La Grande",
+        "lat": "46.8342707",
+        "lng": "-122.318725"
+    },
+    {
+        "state": "Washington",
+        "city": "Longbranch",
+        "lat": "47.208985",
+        "lng": "-122.7567994"
+    },
+    {
+        "state": "Washington",
+        "city": "McKenna",
+        "lat": "46.9348213",
+        "lng": "-122.5565117"
+    },
+    {
+        "state": "Washington",
+        "city": "McMillin",
+        "lat": "47.1398236",
+        "lng": "-122.2365063"
+    },
+    {
+        "state": "Washington",
+        "city": "Purdy",
+        "lat": "47.3889853",
+        "lng": "-122.6254103"
+    },
+    {
+        "state": "Washington",
+        "city": "Rosedale",
+        "lat": "47.3314854",
+        "lng": "-122.652354"
+    },
+    {
+        "state": "Washington",
+        "city": "South Creek",
+        "lat": "46.9994768",
+        "lng": "-122.3920953"
+    },
+    {
+        "state": "Washington",
+        "city": "Vaughn",
+        "lat": "47.3442617",
+        "lng": "-122.7631918"
+    },
+    {
+        "state": "Washington",
+        "city": "Wauna",
+        "lat": "47.3789852",
+        "lng": "-122.6426329"
+    },
+    {
+        "state": "Washington",
+        "city": "Wollochet",
+        "lat": "47.2687088",
+        "lng": "-122.5840168"
+    },
+    {
+        "state": "Washington",
+        "city": "Buena",
+        "lat": "46.4287397",
+        "lng": "-120.3133898"
+    },
+    {
+        "state": "Washington",
+        "city": "Cliffdell",
+        "lat": "46.9462292",
+        "lng": "-121.0689708"
+    },
+    {
+        "state": "Washington",
+        "city": "Cowiche",
+        "lat": "46.6698469",
+        "lng": "-120.7122935"
+    },
+    {
+        "state": "Washington",
+        "city": "Donald",
+        "lat": "46.4765167",
+        "lng": "-120.3967267"
+    },
+    {
+        "state": "Washington",
+        "city": "Nile",
+        "lat": "46.8206761",
+        "lng": "-120.939522"
+    },
+    {
+        "state": "Washington",
+        "city": "Outlook",
+        "lat": "46.3312416",
+        "lng": "-120.0911574"
+    },
+    {
+        "state": "Washington",
+        "city": "Parker",
+        "lat": "46.5009605",
+        "lng": "-120.4653406"
+    },
+    {
+        "state": "Washington",
+        "city": "Tampico",
+        "lat": "46.5351228",
+        "lng": "-120.8672953"
+    },
+    {
+        "state": "Washington",
+        "city": "Altoona",
+        "lat": "46.2667745",
+        "lng": "-123.6562504"
+    },
+    {
+        "state": "Washington",
+        "city": "Deep River",
+        "lat": "46.3484392",
+        "lng": "-123.6851455"
+    },
+    {
+        "state": "Washington",
+        "city": "Grays River",
+        "lat": "46.3562176",
+        "lng": "-123.6093106"
+    },
+    {
+        "state": "Washington",
+        "city": "Rosburg",
+        "lat": "46.33094",
+        "lng": "-123.6384763"
+    },
+    {
+        "state": "Washington",
+        "city": "Fern Prairie",
+        "lat": "45.6365067",
+        "lng": "-122.3987037"
+    },
+    {
+        "state": "Washington",
+        "city": "Hoodsport",
+        "lat": "47.4059259",
+        "lng": "-123.1393227"
+    },
+    {
+        "state": "Washington",
+        "city": "Point Roberts",
+        "lat": "48.9853824",
+        "lng": "-123.077974"
+    },
+    {
+        "state": "Washington",
+        "city": "Loomis",
+        "lat": "48.820985",
+        "lng": "-119.6334057"
+    },
+    {
+        "state": "Washington",
+        "city": "Malott",
+        "lat": "48.2826495",
+        "lng": "-119.7067271"
+    },
+    {
+        "state": "Washington",
+        "city": "Methow",
+        "lat": "48.1301428",
+        "lng": "-120.0036848"
+    },
+    {
+        "state": "Washington",
+        "city": "Addy",
+        "lat": "48.3560098",
+        "lng": "-117.8374738"
+    },
+    {
+        "state": "Washington",
+        "city": "Clayton",
+        "lat": "47.9968372",
+        "lng": "-117.5582841"
+    },
+    {
+        "state": "Washington",
+        "city": "Loon Lake",
+        "lat": "48.0615604",
+        "lng": "-117.6327332"
+    },
+    {
+        "state": "Washington",
+        "city": "Valley",
+        "lat": "48.1751733",
+        "lng": "-117.7246849"
+    },
+    {
+        "state": "Washington",
+        "city": "Curlew",
+        "lat": "48.8854493",
+        "lng": "-118.5994714"
+    },
+    {
+        "state": "Washington",
+        "city": "Orient",
+        "lat": "48.8660142",
+        "lng": "-118.2027814"
+    },
+    {
+        "state": "Washington",
+        "city": "Chelan Falls",
+        "lat": "47.8015252",
+        "lng": "-119.9859009"
+    },
+    {
+        "state": "Washington",
+        "city": "Manson",
+        "lat": "47.8848573",
+        "lng": "-120.1584115"
+    },
+    {
+        "state": "Washington",
+        "city": "Clallam Bay",
+        "lat": "48.2545226",
+        "lng": "-124.2596613"
+    },
+    {
+        "state": "Washington",
+        "city": "Sekiu",
+        "lat": "48.2622995",
+        "lng": "-124.3013299"
+    },
+    {
+        "state": "Washington",
+        "city": "Allyn",
+        "lat": "47.3856501",
+        "lng": "-122.8276415"
+    },
+    {
+        "state": "Washington",
+        "city": "Belfair",
+        "lat": "47.4506495",
+        "lng": "-122.8273657"
+    },
+    {
+        "state": "Washington",
+        "city": "Union",
+        "lat": "47.3550934",
+        "lng": "-123.1009872"
+    },
+    {
+        "state": "Washington",
+        "city": "Steptoe",
+        "lat": "47.0060023",
+        "lng": "-117.3560178"
+    },
+    {
+        "state": "Washington",
+        "city": "Willapa",
+        "lat": "46.6748226",
+        "lng": "-123.6662704"
+    },
+    {
+        "state": "Washington",
+        "city": "Mineral",
+        "lat": "46.7170518",
+        "lng": "-122.1809417"
+    },
+    {
+        "state": "Washington",
+        "city": "Onalaska",
+        "lat": "46.5751062",
+        "lng": "-122.7181719"
+    },
+    {
+        "state": "Washington",
+        "city": "Packwood",
+        "lat": "46.606501",
+        "lng": "-121.6706437"
+    },
+    {
+        "state": "Washington",
+        "city": "Ryderwood",
+        "lat": "46.3764967",
+        "lng": "-123.0437326"
+    },
+    {
+        "state": "Washington",
+        "city": "Barstow",
+        "lat": "48.7771256",
+        "lng": "-118.1427738"
+    },
+    {
+        "state": "Washington",
+        "city": "Torboy",
+        "lat": "48.6798874",
+        "lng": "-118.6628029"
+    },
+    {
+        "state": "Washington",
+        "city": "Boyds",
+        "lat": "48.7137914",
+        "lng": "-118.1327718"
+    },
+    {
+        "state": "Washington",
+        "city": "Laurier",
+        "lat": "48.9987931",
+        "lng": "-118.2241779"
+    },
+    {
+        "state": "Washington",
+        "city": "Malo",
+        "lat": "48.8015577",
+        "lng": "-118.6069689"
+    },
+    {
+        "state": "Washington",
+        "city": "Malone",
+        "lat": "46.9592515",
+        "lng": "-123.3284694"
+    },
+    {
+        "state": "Washington",
+        "city": "Fragaria",
+        "lat": "47.4639863",
+        "lng": "-122.5312419"
+    },
+    {
+        "state": "Washington",
+        "city": "Waldron",
+        "lat": "48.6876027",
+        "lng": "-123.0368533"
+    },
+    {
+        "state": "Washington",
+        "city": "Sunrise Beach",
+        "lat": "47.3446031919",
+        "lng": "-122.555516477"
+    },
+    {
+        "state": "Washington",
+        "city": "Annapolis",
+        "lat": "47.5475957",
+        "lng": "-122.6206931"
+    },
+    {
+        "state": "Washington",
+        "city": "Sunset Beach",
+        "lat": "47.2181533",
+        "lng": "-122.5726268"
+    },
+    {
+        "state": "Washington",
+        "city": "Wautauga Beach",
+        "lat": "47.5862078",
+        "lng": "-122.5481901"
+    },
+    {
+        "state": "Washington",
+        "city": "Strandell",
+        "lat": "48.9120609",
+        "lng": "-122.3582153"
+    },
+    {
+        "state": "Washington",
+        "city": "Diablo",
+        "lat": "48.7134615",
+        "lng": "-121.141233"
+    },
+    {
+        "state": "Washington",
+        "city": "Newhalem",
+        "lat": "48.6737368",
+        "lng": "-121.247346"
+    },
+    {
+        "state": "Washington",
+        "city": "Van Zandt",
+        "lat": "48.7890042",
+        "lng": "-122.1918238"
+    },
+    {
+        "state": "Washington",
+        "city": "Wickersham",
+        "lat": "48.6551115",
+        "lng": "-122.2129357"
+    },
+    {
+        "state": "Washington",
+        "city": "Belvedere",
+        "lat": "48.0498761",
+        "lng": "-118.9850234"
+    },
+    {
+        "state": "Washington",
+        "city": "Koontzville",
+        "lat": "48.0157092",
+        "lng": "-118.9472435"
+    },
+    {
+        "state": "Washington",
+        "city": "Aeneas",
+        "lat": "48.5473813",
+        "lng": "-118.9786447"
+    },
+    {
+        "state": "Washington",
+        "city": "Carlton",
+        "lat": "48.2482001",
+        "lng": "-120.1161905"
+    },
+    {
+        "state": "Washington",
+        "city": "Chesaw",
+        "lat": "48.9460104",
+        "lng": "-119.0514316"
+    },
+    {
+        "state": "Washington",
+        "city": "Cordell",
+        "lat": "48.8665489",
+        "lng": "-119.4120068"
+    },
+    {
+        "state": "Washington",
+        "city": "Mazama",
+        "lat": "48.5920867",
+        "lng": "-120.4039844"
+    },
+    {
+        "state": "Washington",
+        "city": "Molson",
+        "lat": "48.9810156",
+        "lng": "-119.2006021"
+    },
+    {
+        "state": "Washington",
+        "city": "Monse",
+        "lat": "48.1412584",
+        "lng": "-119.6778339"
+    },
+    {
+        "state": "Washington",
+        "city": "Nighthawk",
+        "lat": "48.9665449",
+        "lng": "-119.642021"
+    },
+    {
+        "state": "Washington",
+        "city": "Synarep",
+        "lat": "48.5209885",
+        "lng": "-119.3308786"
+    },
+    {
+        "state": "Washington",
+        "city": "Ellisforde",
+        "lat": "48.7898783",
+        "lng": "-119.4011718"
+    },
+    {
+        "state": "Washington",
+        "city": "Ford",
+        "lat": "47.9082219",
+        "lng": "-117.805792"
+    },
+    {
+        "state": "Washington",
+        "city": "Cedonia",
+        "lat": "48.1537774",
+        "lng": "-118.1691528"
+    },
+    {
+        "state": "Washington",
+        "city": "Fruitland",
+        "lat": "48.0709969",
+        "lng": "-118.1988742"
+    },
+    {
+        "state": "Washington",
+        "city": "Hunters",
+        "lat": "48.1168314",
+        "lng": "-118.2019313"
+    },
+    {
+        "state": "Washington",
+        "city": "Wellpinit",
+        "lat": "47.8879399",
+        "lng": "-117.9880253"
+    },
+    {
+        "state": "Washington",
+        "city": "Daisy",
+        "lat": "48.3612832",
+        "lng": "-118.1599909"
+    },
+    {
+        "state": "Washington",
+        "city": "Evans",
+        "lat": "48.7135159",
+        "lng": "-118.0252655"
+    },
+    {
+        "state": "Washington",
+        "city": "Gifford",
+        "lat": "48.306282",
+        "lng": "-118.1463778"
+    },
+    {
+        "state": "Washington",
+        "city": "Leadpoint",
+        "lat": "48.9093598",
+        "lng": "-117.5874743"
+    },
+    {
+        "state": "Washington",
+        "city": "Marble",
+        "lat": "48.8490759",
+        "lng": "-117.9016542"
+    },
+    {
+        "state": "Washington",
+        "city": "Rice",
+        "lat": "48.4287848",
+        "lng": "-118.1702709"
+    },
+    {
+        "state": "Washington",
+        "city": "Camden",
+        "lat": "48.0473986",
+        "lng": "-117.2399348"
+    },
+    {
+        "state": "Washington",
+        "city": "Lost Creek",
+        "lat": "48.6093569",
+        "lng": "-117.363569"
+    },
+    {
+        "state": "Washington",
+        "city": "Ruby",
+        "lat": "48.5221332",
+        "lng": "-117.2991167"
+    },
+    {
+        "state": "Washington",
+        "city": "Usk",
+        "lat": "48.3137939",
+        "lng": "-117.2796637"
+    },
+    {
+        "state": "Washington",
+        "city": "Tiger",
+        "lat": "48.6915806",
+        "lng": "-117.4077416"
+    },
+    {
+        "state": "Washington",
+        "city": "Dalkena",
+        "lat": "48.2449036",
+        "lng": "-117.2377146"
+    },
+    {
+        "state": "Washington",
+        "city": "Covada",
+        "lat": "48.2204454",
+        "lng": "-118.2088794"
+    },
+    {
+        "state": "Washington",
+        "city": "Kewa",
+        "lat": "48.2009994",
+        "lng": "-118.2786052"
+    },
+    {
+        "state": "Washington",
+        "city": "Richardson",
+        "lat": "48.4514887",
+        "lng": "-122.8987881"
+    },
+    {
+        "state": "Washington",
+        "city": "Shaw Island",
+        "lat": "48.5842684",
+        "lng": "-122.9290697"
+    },
+    {
+        "state": "Washington",
+        "city": "Orcas",
+        "lat": "48.5978797",
+        "lng": "-122.9446258"
+    },
+    {
+        "state": "Washington",
+        "city": "Rosario",
+        "lat": "48.6487148",
+        "lng": "-122.876016"
+    },
+    {
+        "state": "Washington",
+        "city": "Eastsound",
+        "lat": "48.696771",
+        "lng": "-122.9054625"
+    },
+    {
+        "state": "Washington",
+        "city": "Urban",
+        "lat": "48.6178828",
+        "lng": "-122.6921221"
+    },
+    {
+        "state": "Washington",
+        "city": "Similk Beach",
+        "lat": "48.4478816",
+        "lng": "-122.5779469"
+    },
+    {
+        "state": "Washington",
+        "city": "Blanchard",
+        "lat": "48.5934411",
+        "lng": "-122.4165538"
+    },
+    {
+        "state": "Washington",
+        "city": "Bow",
+        "lat": "48.5617742",
+        "lng": "-122.3982194"
+    },
+    {
+        "state": "Washington",
+        "city": "Samish",
+        "lat": "48.6109411",
+        "lng": "-122.4357214"
+    },
+    {
+        "state": "Washington",
+        "city": "Ardenvoir",
+        "lat": "47.7373499",
+        "lng": "-120.3689741"
+    },
+    {
+        "state": "Washington",
+        "city": "Azwell",
+        "lat": "47.937085",
+        "lng": "-119.8764526"
+    },
+    {
+        "state": "Washington",
+        "city": "Lucerne",
+        "lat": "48.2023587",
+        "lng": "-120.5912076"
+    },
+    {
+        "state": "Washington",
+        "city": "Merritt",
+        "lat": "47.7809512",
+        "lng": "-120.8431515"
+    },
+    {
+        "state": "Washington",
+        "city": "Monitor",
+        "lat": "47.4867916",
+        "lng": "-120.4181327"
+    },
+    {
+        "state": "Washington",
+        "city": "Peshastin",
+        "lat": "47.5706779",
+        "lng": "-120.6039743"
+    },
+    {
+        "state": "Washington",
+        "city": "Plain",
+        "lat": "47.7626219",
+        "lng": "-120.6573149"
+    },
+    {
+        "state": "Washington",
+        "city": "Stehekin",
+        "lat": "48.3093032",
+        "lng": "-120.6564879"
+    },
+    {
+        "state": "Washington",
+        "city": "Telma",
+        "lat": "47.8431757",
+        "lng": "-120.8156518"
+    },
+    {
+        "state": "Washington",
+        "city": "Winton",
+        "lat": "47.7353978",
+        "lng": "-120.7412046"
+    },
+    {
+        "state": "Washington",
+        "city": "Greenbank",
+        "lat": "48.0981503",
+        "lng": "-122.5729351"
+    },
+    {
+        "state": "Washington",
+        "city": "Mabana",
+        "lat": "48.0945402",
+        "lng": "-122.415149"
+    },
+    {
+        "state": "Washington",
+        "city": "Midvale Corner",
+        "lat": "47.9925935",
+        "lng": "-122.4176438"
+    },
+    {
+        "state": "Washington",
+        "city": "Glendale",
+        "lat": "47.9395392",
+        "lng": "-122.3584722"
+    },
+    {
+        "state": "Washington",
+        "city": "Maxwelton",
+        "lat": "47.9373164",
+        "lng": "-122.4443087"
+    },
+    {
+        "state": "Washington",
+        "city": "Possession",
+        "lat": "47.917595",
+        "lng": "-122.3762495"
+    },
+    {
+        "state": "Washington",
+        "city": "San de Fuca",
+        "lat": "48.2350991",
+        "lng": "-122.7232274"
+    },
+    {
+        "state": "Washington",
+        "city": "Dungeness",
+        "lat": "48.1467597",
+        "lng": "-123.1232335"
+    },
+    {
+        "state": "Washington",
+        "city": "Joyce",
+        "lat": "48.136477",
+        "lng": "-123.7340865"
+    },
+    {
+        "state": "Washington",
+        "city": "Sappho",
+        "lat": "48.0700786",
+        "lng": "-124.2793784"
+    },
+    {
+        "state": "Washington",
+        "city": "La Push",
+        "lat": "47.9086834",
+        "lng": "-124.6366039"
+    },
+    {
+        "state": "Washington",
+        "city": "Murphys Corner",
+        "lat": "47.8781524",
+        "lng": "-122.2067975"
+    },
+    {
+        "state": "Washington",
+        "city": "Larimers Corner",
+        "lat": "47.891764",
+        "lng": "-122.1445742"
+    },
+    {
+        "state": "Washington",
+        "city": "Roosevelt",
+        "lat": "47.892321",
+        "lng": "-122.0123487"
+    },
+    {
+        "state": "Washington",
+        "city": "South Snohomish",
+        "lat": "47.8989866",
+        "lng": "-122.1090181"
+    },
+    {
+        "state": "Washington",
+        "city": "Fairmont",
+        "lat": "47.9020405",
+        "lng": "-122.2542998"
+    },
+    {
+        "state": "Washington",
+        "city": "Canyon Park",
+        "lat": "47.7909313",
+        "lng": "-122.1926267"
+    },
+    {
+        "state": "Washington",
+        "city": "Kennard Corner",
+        "lat": "47.8200975",
+        "lng": "-122.2076282"
+    },
+    {
+        "state": "Washington",
+        "city": "Seattle Heights",
+        "lat": "47.8103747",
+        "lng": "-122.32402"
+    },
+    {
+        "state": "Washington",
+        "city": "Tulalip",
+        "lat": "48.0684294",
+        "lng": "-122.2918095"
+    },
+    {
+        "state": "Washington",
+        "city": "Turner Corner",
+        "lat": "47.8045426",
+        "lng": "-122.1434599"
+    },
+    {
+        "state": "Washington",
+        "city": "Cavalero Corner",
+        "lat": "47.9781523",
+        "lng": "-122.1348549"
+    },
+    {
+        "state": "Washington",
+        "city": "High Rock",
+        "lat": "47.8128772",
+        "lng": "-121.982624"
+    },
+    {
+        "state": "Washington",
+        "city": "Robe",
+        "lat": "48.0973255",
+        "lng": "-121.8134608"
+    },
+    {
+        "state": "Washington",
+        "city": "Silverton",
+        "lat": "48.0784397",
+        "lng": "-121.5670624"
+    },
+    {
+        "state": "Washington",
+        "city": "Lakewood",
+        "lat": "48.1520431",
+        "lng": "-122.2073655"
+    },
+    {
+        "state": "Washington",
+        "city": "Alstown",
+        "lat": "47.5609642",
+        "lng": "-119.9950603"
+    },
+    {
+        "state": "Washington",
+        "city": "Farmer",
+        "lat": "47.6126369",
+        "lng": "-119.8119972"
+    },
+    {
+        "state": "Washington",
+        "city": "Withrow",
+        "lat": "47.7048611",
+        "lng": "-119.8086656"
+    },
+    {
+        "state": "Washington",
+        "city": "Douglas",
+        "lat": "47.6212432",
+        "lng": "-120.0047852"
+    },
+    {
+        "state": "Washington",
+        "city": "Palisades",
+        "lat": "47.4190207",
+        "lng": "-119.9144985"
+    },
+    {
+        "state": "Washington",
+        "city": "Beaver Valley",
+        "lat": "47.9259242",
+        "lng": "-122.7301618"
+    },
+    {
+        "state": "Washington",
+        "city": "Chimacum",
+        "lat": "48.0109233",
+        "lng": "-122.7687771"
+    },
+    {
+        "state": "Washington",
+        "city": "Port Hadlock",
+        "lat": "48.0317574",
+        "lng": "-122.7582219"
+    },
+    {
+        "state": "Washington",
+        "city": "Irondale",
+        "lat": "48.0420357",
+        "lng": "-122.7726672"
+    },
+    {
+        "state": "Washington",
+        "city": "Kalaloch",
+        "lat": "47.6045242",
+        "lng": "-124.3724164"
+    },
+    {
+        "state": "Washington",
+        "city": "Leland",
+        "lat": "47.8917575",
+        "lng": "-122.8865556"
+    },
+    {
+        "state": "Washington",
+        "city": "Marshall",
+        "lat": "47.5648909",
+        "lng": "-117.4993752"
+    },
+    {
+        "state": "Washington",
+        "city": "Deep Creek",
+        "lat": "47.6429426",
+        "lng": "-117.7121653"
+    },
+    {
+        "state": "Washington",
+        "city": "Espanola",
+        "lat": "47.6032193",
+        "lng": "-117.7416087"
+    },
+    {
+        "state": "Washington",
+        "city": "Newman Lake",
+        "lat": "47.7768431",
+        "lng": "-117.0949268"
+    },
+    {
+        "state": "Washington",
+        "city": "Nine Mile Falls",
+        "lat": "47.7757227",
+        "lng": "-117.5460571"
+    },
+    {
+        "state": "Washington",
+        "city": "Amber",
+        "lat": "47.3518317",
+        "lng": "-117.7115986"
+    },
+    {
+        "state": "Washington",
+        "city": "Chattaroy",
+        "lat": "47.8896162",
+        "lng": "-117.3577177"
+    },
+    {
+        "state": "Washington",
+        "city": "Colbert",
+        "lat": "47.8265601",
+        "lng": "-117.3418832"
+    },
+    {
+        "state": "Washington",
+        "city": "Dishman",
+        "lat": "47.6568384",
+        "lng": "-117.2832644"
+    },
+    {
+        "state": "Washington",
+        "city": "East Farms",
+        "lat": "47.7073999",
+        "lng": "-117.0524227"
+    },
+    {
+        "state": "Washington",
+        "city": "Freeman",
+        "lat": "47.5182301",
+        "lng": "-117.1957538"
+    },
+    {
+        "state": "Washington",
+        "city": "Hayford",
+        "lat": "47.6062783",
+        "lng": "-117.5638249"
+    },
+    {
+        "state": "Washington",
+        "city": "Milan",
+        "lat": "47.9668399",
+        "lng": "-117.3316058"
+    },
+    {
+        "state": "Washington",
+        "city": "Opportunity",
+        "lat": "47.6573949",
+        "lng": "-117.2399296"
+    },
+    {
+        "state": "Washington",
+        "city": "Otis Orchards",
+        "lat": "47.700454",
+        "lng": "-117.106314"
+    },
+    {
+        "state": "Washington",
+        "city": "Plaza",
+        "lat": "47.3201717",
+        "lng": "-117.3838047"
+    },
+    {
+        "state": "Washington",
+        "city": "Trentwood",
+        "lat": "47.6965622",
+        "lng": "-117.2107634"
+    },
+    {
+        "state": "Washington",
+        "city": "Tyler",
+        "lat": "47.4359956",
+        "lng": "-117.7835498"
+    },
+    {
+        "state": "Washington",
+        "city": "Veradale",
+        "lat": "47.6568405",
+        "lng": "-117.1963163"
+    },
+    {
+        "state": "Washington",
+        "city": "Beverly",
+        "lat": "46.8367987",
+        "lng": "-119.9331041"
+    },
+    {
+        "state": "Washington",
+        "city": "McDonald",
+        "lat": "47.0712534",
+        "lng": "-119.2155733"
+    },
+    {
+        "state": "Washington",
+        "city": "Smyrna",
+        "lat": "46.8393024",
+        "lng": "-119.6622581"
+    },
+    {
+        "state": "Washington",
+        "city": "Stratford",
+        "lat": "47.4267517",
+        "lng": "-119.2815685"
+    },
+    {
+        "state": "Washington",
+        "city": "Wheeler",
+        "lat": "47.1306981",
+        "lng": "-119.1719606"
+    },
+    {
+        "state": "Washington",
+        "city": "Winchester",
+        "lat": "47.2490239",
+        "lng": "-119.7197677"
+    },
+    {
+        "state": "Washington",
+        "city": "Ruff",
+        "lat": "47.1695886",
+        "lng": "-118.9983411"
+    },
+    {
+        "state": "Washington",
+        "city": "Lincoln",
+        "lat": "47.8290456",
+        "lng": "-118.414992"
+    },
+    {
+        "state": "Washington",
+        "city": "Irby",
+        "lat": "47.3593127",
+        "lng": "-118.8511133"
+    },
+    {
+        "state": "Washington",
+        "city": "Lamona",
+        "lat": "47.3593159",
+        "lng": "-118.4824843"
+    },
+    {
+        "state": "Washington",
+        "city": "Long Lake",
+        "lat": "47.8359977",
+        "lng": "-117.8488483"
+    },
+    {
+        "state": "Washington",
+        "city": "Mohler",
+        "lat": "47.4048746",
+        "lng": "-118.3291435"
+    },
+    {
+        "state": "Washington",
+        "city": "Mondovi",
+        "lat": "47.6812693",
+        "lng": "-118.0163558"
+    },
+    {
+        "state": "Washington",
+        "city": "Waukon",
+        "lat": "47.539605",
+        "lng": "-117.8432805"
+    },
+    {
+        "state": "Washington",
+        "city": "Edwall",
+        "lat": "47.504602",
+        "lng": "-117.9510663"
+    },
+    {
+        "state": "Washington",
+        "city": "Miles",
+        "lat": "47.9107147",
+        "lng": "-118.2924867"
+    },
+    {
+        "state": "Washington",
+        "city": "Rollingbay",
+        "lat": "47.6645415",
+        "lng": "-122.5101335"
+    },
+    {
+        "state": "Washington",
+        "city": "Brownsville",
+        "lat": "47.6556509",
+        "lng": "-122.6165308"
+    },
+    {
+        "state": "Washington",
+        "city": "Manzanita",
+        "lat": "47.6762073",
+        "lng": "-122.5595823"
+    },
+    {
+        "state": "Washington",
+        "city": "Port Blakely",
+        "lat": "47.5973195",
+        "lng": "-122.5101324"
+    },
+    {
+        "state": "Washington",
+        "city": "Bangor",
+        "lat": "47.7209265",
+        "lng": "-122.7459904"
+    },
+    {
+        "state": "Washington",
+        "city": "Breidablick",
+        "lat": "47.8020382",
+        "lng": "-122.6493178"
+    },
+    {
+        "state": "Washington",
+        "city": "Central Valley",
+        "lat": "47.6631504",
+        "lng": "-122.6498672"
+    },
+    {
+        "state": "Washington",
+        "city": "Eagledale",
+        "lat": "47.6142638",
+        "lng": "-122.5154108"
+    },
+    {
+        "state": "Washington",
+        "city": "Eglon",
+        "lat": "47.8625948",
+        "lng": "-122.5145857"
+    },
+    {
+        "state": "Washington",
+        "city": "Erlands Point",
+        "lat": "47.5998165",
+        "lng": "-122.6929225"
+    },
+    {
+        "state": "Washington",
+        "city": "Fairview",
+        "lat": "47.6214836",
+        "lng": "-122.6684775"
+    },
+    {
+        "state": "Washington",
+        "city": "Gilberton",
+        "lat": "47.6389845",
+        "lng": "-122.6048625"
+    },
+    {
+        "state": "Washington",
+        "city": "Harper",
+        "lat": "47.5206529",
+        "lng": "-122.5195759"
+    },
+    {
+        "state": "Washington",
+        "city": "Kitsap Lake",
+        "lat": "47.5828719",
+        "lng": "-122.7084779"
+    },
+    {
+        "state": "Washington",
+        "city": "Olalla",
+        "lat": "47.429264",
+        "lng": "-122.545686"
+    },
+    {
+        "state": "Washington",
+        "city": "Olympic View",
+        "lat": "47.6939823",
+        "lng": "-122.7404324"
+    },
+    {
+        "state": "Washington",
+        "city": "Port Gamble",
+        "lat": "47.8542606",
+        "lng": "-122.5837581"
+    },
+    {
+        "state": "Washington",
+        "city": "Port Madison",
+        "lat": "47.7025967",
+        "lng": "-122.5243022"
+    },
+    {
+        "state": "Washington",
+        "city": "Venice",
+        "lat": "47.6670404",
+        "lng": "-122.5798616"
+    },
+    {
+        "state": "Washington",
+        "city": "Virginia",
+        "lat": "47.7073171",
+        "lng": "-122.6373682"
+    },
+    {
+        "state": "Washington",
+        "city": "Holly",
+        "lat": "47.5575929",
+        "lng": "-122.9784885"
+    },
+    {
+        "state": "Washington",
+        "city": "Scandia",
+        "lat": "47.7164835",
+        "lng": "-122.6579262"
+    },
+    {
+        "state": "Washington",
+        "city": "Magnolia Beach",
+        "lat": "47.3820427",
+        "lng": "-122.4831828"
+    },
+    {
+        "state": "Washington",
+        "city": "Portage",
+        "lat": "47.4073208",
+        "lng": "-122.4376266"
+    },
+    {
+        "state": "Washington",
+        "city": "Berrydale",
+        "lat": "47.3398229",
+        "lng": "-122.1278954"
+    },
+    {
+        "state": "Washington",
+        "city": "Cedar Grove",
+        "lat": "47.4356565",
+        "lng": "-122.0620622"
+    },
+    {
+        "state": "Washington",
+        "city": "Cedar Mountain",
+        "lat": "47.4481565",
+        "lng": "-122.0731737"
+    },
+    {
+        "state": "Washington",
+        "city": "Cedarhurst",
+        "lat": "47.4820424",
+        "lng": "-122.4792959"
+    },
+    {
+        "state": "Washington",
+        "city": "Christopher",
+        "lat": "47.3339893",
+        "lng": "-122.2320647"
+    },
+    {
+        "state": "Washington",
+        "city": "Coalfield",
+        "lat": "47.5026006",
+        "lng": "-122.1217869"
+    },
+    {
+        "state": "Washington",
+        "city": "Colvos",
+        "lat": "47.4762091",
+        "lng": "-122.490685"
+    },
+    {
+        "state": "Washington",
+        "city": "Kummer",
+        "lat": "47.2867675",
+        "lng": "-122.0212248"
+    },
+    {
+        "state": "Washington",
+        "city": "Lakota",
+        "lat": "47.3328772",
+        "lng": "-122.3723459"
+    },
+    {
+        "state": "Washington",
+        "city": "Lisabeula",
+        "lat": "47.4073201",
+        "lng": "-122.517629"
+    },
+    {
+        "state": "Washington",
+        "city": "Newaukum",
+        "lat": "47.2573231",
+        "lng": "-122.1017822"
+    },
+    {
+        "state": "Washington",
+        "city": "Novelty",
+        "lat": "47.7089888",
+        "lng": "-121.9845662"
+    },
+    {
+        "state": "Washington",
+        "city": "Shore Acres",
+        "lat": "47.3548209",
+        "lng": "-122.4481814"
+    },
+    {
+        "state": "Washington",
+        "city": "Tahlequah",
+        "lat": "47.3325983",
+        "lng": "-122.5073492"
+    },
+    {
+        "state": "Washington",
+        "city": "Vashon Heights",
+        "lat": "47.5056535",
+        "lng": "-122.4654071"
+    },
+    {
+        "state": "Washington",
+        "city": "Allentown",
+        "lat": "47.4942659",
+        "lng": "-122.2762343"
+    },
+    {
+        "state": "Washington",
+        "city": "Skyway",
+        "lat": "47.4914884",
+        "lng": "-122.2542892"
+    },
+    {
+        "state": "Washington",
+        "city": "Burton",
+        "lat": "47.3889874",
+        "lng": "-122.4606824"
+    },
+    {
+        "state": "Washington",
+        "city": "Cove",
+        "lat": "47.4520423",
+        "lng": "-122.5079074"
+    },
+    {
+        "state": "Washington",
+        "city": "Dockton",
+        "lat": "47.3717652",
+        "lng": "-122.4592932"
+    },
+    {
+        "state": "Washington",
+        "city": "Ellisport",
+        "lat": "47.4203764",
+        "lng": "-122.4354046"
+    },
+    {
+        "state": "Washington",
+        "city": "Hazelwood",
+        "lat": "47.550933",
+        "lng": "-122.191511"
+    },
+    {
+        "state": "Washington",
+        "city": "Houghton",
+        "lat": "47.6609322",
+        "lng": "-122.2059572"
+    },
+    {
+        "state": "Washington",
+        "city": "Juanita",
+        "lat": "47.7031541",
+        "lng": "-122.2070689"
+    },
+    {
+        "state": "Washington",
+        "city": "Kennydale",
+        "lat": "47.5206552",
+        "lng": "-122.2067887"
+    },
+    {
+        "state": "Washington",
+        "city": "Lake Hills",
+        "lat": "47.6134331",
+        "lng": "-122.1215109"
+    },
+    {
+        "state": "Washington",
+        "city": "Maplewood",
+        "lat": "47.4681558",
+        "lng": "-122.1628982"
+    },
+    {
+        "state": "Washington",
+        "city": "Meridian",
+        "lat": "47.6695425",
+        "lng": "-122.330405"
+    },
+    {
+        "state": "Washington",
+        "city": "Newport Hills",
+        "lat": "47.5409331",
+        "lng": "-122.1765106"
+    },
+    {
+        "state": "Washington",
+        "city": "North City",
+        "lat": "47.7556532",
+        "lng": "-122.3134613"
+    },
+    {
+        "state": "Washington",
+        "city": "Redondo",
+        "lat": "47.348433",
+        "lng": "-122.3234561"
+    },
+    {
+        "state": "Washington",
+        "city": "Richmond Beach",
+        "lat": "47.7695415",
+        "lng": "-122.3901313"
+    },
+    {
+        "state": "Washington",
+        "city": "Richmond Highlands",
+        "lat": "47.7612086",
+        "lng": "-122.3462405"
+    },
+    {
+        "state": "Washington",
+        "city": "Seahurst",
+        "lat": "47.4692655",
+        "lng": "-122.3620699"
+    },
+    {
+        "state": "Washington",
+        "city": "Sunnydale",
+        "lat": "47.4631546",
+        "lng": "-122.3337357"
+    },
+    {
+        "state": "Washington",
+        "city": "Thomas",
+        "lat": "47.3537115",
+        "lng": "-122.2290094"
+    },
+    {
+        "state": "Washington",
+        "city": "Woodmont Beach",
+        "lat": "47.3614887",
+        "lng": "-122.312067"
+    },
+    {
+        "state": "Washington",
+        "city": "Zenith",
+        "lat": "47.3864884",
+        "lng": "-122.3231788"
+    },
+    {
+        "state": "Washington",
+        "city": "Bayne",
+        "lat": "47.295102",
+        "lng": "-121.909555"
+    },
+    {
+        "state": "Washington",
+        "city": "Boise",
+        "lat": "47.1803795",
+        "lng": "-122.0156674"
+    },
+    {
+        "state": "Washington",
+        "city": "Cedar Falls",
+        "lat": "47.4253806",
+        "lng": "-121.7767759"
+    },
+    {
+        "state": "Washington",
+        "city": "Cumberland",
+        "lat": "47.2828796",
+        "lng": "-121.9270553"
+    },
+    {
+        "state": "Washington",
+        "city": "Grotto",
+        "lat": "47.7362179",
+        "lng": "-121.4234359"
+    },
+    {
+        "state": "Washington",
+        "city": "Kanaskat",
+        "lat": "47.3203799",
+        "lng": "-121.8937218"
+    },
+    {
+        "state": "Washington",
+        "city": "Kangley",
+        "lat": "47.3617688",
+        "lng": "-121.8801111"
+    },
+    {
+        "state": "Washington",
+        "city": "Lester",
+        "lat": "47.2092775",
+        "lng": "-121.4939831"
+    },
+    {
+        "state": "Washington",
+        "city": "Palmer",
+        "lat": "47.3142688",
+        "lng": "-121.8923327"
+    },
+    {
+        "state": "Washington",
+        "city": "Pleasant Hill",
+        "lat": "47.615379",
+        "lng": "-121.9095619"
+    },
+    {
+        "state": "Washington",
+        "city": "Preston",
+        "lat": "47.5237128",
+        "lng": "-121.9270604"
+    },
+    {
+        "state": "Washington",
+        "city": "Selleck",
+        "lat": "47.3756578",
+        "lng": "-121.8684444"
+    },
+    {
+        "state": "Washington",
+        "city": "Snoqualmie Falls",
+        "lat": "47.5398243",
+        "lng": "-121.8098348"
+    },
+    {
+        "state": "Washington",
+        "city": "Spring Glen",
+        "lat": "47.5612129",
+        "lng": "-121.8615036"
+    },
+    {
+        "state": "Washington",
+        "city": "Upper Mill",
+        "lat": "47.1934357",
+        "lng": "-121.9270538"
+    },
+    {
+        "state": "Washington",
+        "city": "Upper Preston",
+        "lat": "47.5051019",
+        "lng": "-121.907615"
+    },
+    {
+        "state": "Washington",
+        "city": "Wabash",
+        "lat": "47.2428787",
+        "lng": "-122.0576139"
+    },
+    {
+        "state": "Washington",
+        "city": "Bryn Mawr",
+        "lat": "47.5034329",
+        "lng": "-122.2329"
+    },
+    {
+        "state": "Washington",
+        "city": "Eldon",
+        "lat": "47.5453703",
+        "lng": "-123.0459903"
+    },
+    {
+        "state": "Washington",
+        "city": "Lilliwaup",
+        "lat": "47.4634257",
+        "lng": "-123.1143231"
+    },
+    {
+        "state": "Washington",
+        "city": "Matlock",
+        "lat": "47.2378698",
+        "lng": "-123.407938"
+    },
+    {
+        "state": "Washington",
+        "city": "Tahuya",
+        "lat": "47.3712049",
+        "lng": "-123.0557084"
+    },
+    {
+        "state": "Washington",
+        "city": "Doris",
+        "lat": "46.8676312",
+        "lng": "-120.0097746"
+    },
+    {
+        "state": "Washington",
+        "city": "Wymer",
+        "lat": "46.82596",
+        "lng": "-120.4597884"
+    },
+    {
+        "state": "Washington",
+        "city": "Hyak",
+        "lat": "47.3928903",
+        "lng": "-121.392872"
+    },
+    {
+        "state": "Washington",
+        "city": "Liberty",
+        "lat": "47.2537337",
+        "lng": "-120.6653549"
+    },
+    {
+        "state": "Washington",
+        "city": "Melbourne",
+        "lat": "46.9453735",
+        "lng": "-123.6259961"
+    },
+    {
+        "state": "Washington",
+        "city": "New London",
+        "lat": "47.0573118",
+        "lng": "-123.9271144"
+    },
+    {
+        "state": "Washington",
+        "city": "Copalis Crossing",
+        "lat": "47.1078648",
+        "lng": "-124.069341"
+    },
+    {
+        "state": "Washington",
+        "city": "Carlisle",
+        "lat": "47.1548085",
+        "lng": "-124.0985091"
+    },
+    {
+        "state": "Washington",
+        "city": "Grisdale",
+        "lat": "47.3570337",
+        "lng": "-123.6123909"
+    },
+    {
+        "state": "Washington",
+        "city": "Quinault",
+        "lat": "47.4670312",
+        "lng": "-123.8454552"
+    },
+    {
+        "state": "Washington",
+        "city": "Cromwell",
+        "lat": "47.2742638",
+        "lng": "-122.6223514"
+    },
+    {
+        "state": "Washington",
+        "city": "Dieringer",
+        "lat": "47.2406564",
+        "lng": "-122.225119"
+    },
+    {
+        "state": "Washington",
+        "city": "Midway",
+        "lat": "47.3048196",
+        "lng": "-122.5895734"
+    },
+    {
+        "state": "Washington",
+        "city": "Shore Acres",
+        "lat": "47.3103754",
+        "lng": "-122.5715175"
+    },
+    {
+        "state": "Washington",
+        "city": "Arletta",
+        "lat": "47.2900966",
+        "lng": "-122.6676311"
+    },
+    {
+        "state": "Washington",
+        "city": "Lake City",
+        "lat": "47.148709",
+        "lng": "-122.5512367"
+    },
+    {
+        "state": "Washington",
+        "city": "Lakeview",
+        "lat": "47.159265",
+        "lng": "-122.4981794"
+    },
+    {
+        "state": "Washington",
+        "city": "Tillicum",
+        "lat": "47.1234311",
+        "lng": "-122.5570699"
+    },
+    {
+        "state": "Washington",
+        "city": "Bayview",
+        "lat": "47.2795418",
+        "lng": "-122.6056843"
+    },
+    {
+        "state": "Washington",
+        "city": "Lakebay",
+        "lat": "47.2570403",
+        "lng": "-122.7584663"
+    },
+    {
+        "state": "Washington",
+        "city": "Longmire",
+        "lat": "46.7498311",
+        "lng": "-121.8125968"
+    },
+    {
+        "state": "Washington",
+        "city": "Ohop",
+        "lat": "46.9456589",
+        "lng": "-122.1906683"
+    },
+    {
+        "state": "Washington",
+        "city": "Hooper",
+        "lat": "46.7748723",
+        "lng": "-118.1485714"
+    },
+    {
+        "state": "Washington",
+        "city": "Ralston",
+        "lat": "46.9837612",
+        "lng": "-118.3427485"
+    },
+    {
+        "state": "Washington",
+        "city": "Schrag",
+        "lat": "47.0731992",
+        "lng": "-118.8541672"
+    },
+    {
+        "state": "Washington",
+        "city": "Emden",
+        "lat": "47.1045993",
+        "lng": "-118.1227359"
+    },
+    {
+        "state": "Washington",
+        "city": "Marcellus",
+        "lat": "47.2334833",
+        "lng": "-118.4052563"
+    },
+    {
+        "state": "Washington",
+        "city": "Marengo",
+        "lat": "47.0257089",
+        "lng": "-118.1885722"
+    },
+    {
+        "state": "Washington",
+        "city": "Benge",
+        "lat": "46.9093198",
+        "lng": "-118.1024557"
+    },
+    {
+        "state": "Washington",
+        "city": "Cunningham",
+        "lat": "46.8220859",
+        "lng": "-118.8063872"
+    },
+    {
+        "state": "Washington",
+        "city": "Thornton",
+        "lat": "47.1207257",
+        "lng": "-117.3896325"
+    },
+    {
+        "state": "Washington",
+        "city": "Winona",
+        "lat": "46.9457157",
+        "lng": "-117.8004892"
+    },
+    {
+        "state": "Washington",
+        "city": "Wawawai",
+        "lat": "46.6365482",
+        "lng": "-117.3793456"
+    },
+    {
+        "state": "Washington",
+        "city": "Almota",
+        "lat": "46.7029373",
+        "lng": "-117.4693525"
+    },
+    {
+        "state": "Washington",
+        "city": "Ewan",
+        "lat": "47.1168308",
+        "lng": "-117.7349302"
+    },
+    {
+        "state": "Washington",
+        "city": "Revere",
+        "lat": "47.0812698",
+        "lng": "-117.930222"
+    },
+    {
+        "state": "Washington",
+        "city": "Dusty",
+        "lat": "46.8101598",
+        "lng": "-117.6518662"
+    },
+    {
+        "state": "Washington",
+        "city": "Elberton",
+        "lat": "46.9812808",
+        "lng": "-117.2212886"
+    },
+    {
+        "state": "Washington",
+        "city": "Hay",
+        "lat": "46.6787631",
+        "lng": "-117.9157735"
+    },
+    {
+        "state": "Washington",
+        "city": "Johnson",
+        "lat": "46.6315516",
+        "lng": "-117.1379449"
+    },
+    {
+        "state": "Washington",
+        "city": "Pine City",
+        "lat": "47.2023914",
+        "lng": "-117.5243616"
+    },
+    {
+        "state": "Washington",
+        "city": "Belmont",
+        "lat": "47.08795",
+        "lng": "-117.1623995"
+    },
+    {
+        "state": "Washington",
+        "city": "East Olympia",
+        "lat": "46.9675972",
+        "lng": "-122.8356906"
+    },
+    {
+        "state": "Washington",
+        "city": "Boston Harbor",
+        "lat": "47.1384293",
+        "lng": "-122.9009743"
+    },
+    {
+        "state": "Washington",
+        "city": "Littlerock",
+        "lat": "46.9017652",
+        "lng": "-123.0179182"
+    },
+    {
+        "state": "Washington",
+        "city": "Nisqually",
+        "lat": "47.0564855",
+        "lng": "-122.7012417"
+    },
+    {
+        "state": "Washington",
+        "city": "Vail",
+        "lat": "46.8451007",
+        "lng": "-122.6562348"
+    },
+    {
+        "state": "Washington",
+        "city": "Sawyer",
+        "lat": "46.456517",
+        "lng": "-120.3614474"
+    },
+    {
+        "state": "Washington",
+        "city": "Fruitvale",
+        "lat": "46.6179041",
+        "lng": "-120.5531223"
+    },
+    {
+        "state": "Washington",
+        "city": "Goose Prairie",
+        "lat": "46.8951142",
+        "lng": "-121.2670304"
+    },
+    {
+        "state": "Washington",
+        "city": "Brooklyn",
+        "lat": "46.776211",
+        "lng": "-123.5098812"
+    },
+    {
+        "state": "Washington",
+        "city": "Megler",
+        "lat": "46.2509379",
+        "lng": "-123.8576454"
+    },
+    {
+        "state": "Washington",
+        "city": "Nemah",
+        "lat": "46.512045",
+        "lng": "-123.8859931"
+    },
+    {
+        "state": "Washington",
+        "city": "Frances",
+        "lat": "46.5423258",
+        "lng": "-123.5048754"
+    },
+    {
+        "state": "Washington",
+        "city": "Menlo",
+        "lat": "46.6214902",
+        "lng": "-123.647102"
+    },
+    {
+        "state": "Washington",
+        "city": "Oysterville",
+        "lat": "46.5489871",
+        "lng": "-124.0282197"
+    },
+    {
+        "state": "Washington",
+        "city": "Adna",
+        "lat": "46.6289921",
+        "lng": "-123.0612431"
+    },
+    {
+        "state": "Washington",
+        "city": "Boistfort",
+        "lat": "46.5351036",
+        "lng": "-123.1337445"
+    },
+    {
+        "state": "Washington",
+        "city": "Marys Corner",
+        "lat": "46.5470507",
+        "lng": "-122.8226186"
+    },
+    {
+        "state": "Washington",
+        "city": "Doty",
+        "lat": "46.6345456",
+        "lng": "-123.2776442"
+    },
+    {
+        "state": "Washington",
+        "city": "Cinebar",
+        "lat": "46.6042726",
+        "lng": "-122.5317808"
+    },
+    {
+        "state": "Washington",
+        "city": "Glenoma",
+        "lat": "46.5145545",
+        "lng": "-122.1600994"
+    },
+    {
+        "state": "Washington",
+        "city": "Kosmos",
+        "lat": "46.4978879",
+        "lng": "-122.1878774"
+    },
+    {
+        "state": "Washington",
+        "city": "Randle",
+        "lat": "46.535111",
+        "lng": "-121.9570386"
+    },
+    {
+        "state": "Washington",
+        "city": "Salkum",
+        "lat": "46.5320515",
+        "lng": "-122.625947"
+    },
+    {
+        "state": "Washington",
+        "city": "Eltopia",
+        "lat": "46.4587486",
+        "lng": "-119.0172292"
+    },
+    {
+        "state": "Washington",
+        "city": "Plymouth",
+        "lat": "45.9345771",
+        "lng": "-119.350296"
+    },
+    {
+        "state": "Washington",
+        "city": "Badger",
+        "lat": "46.2001343",
+        "lng": "-119.3594642"
+    },
+    {
+        "state": "Washington",
+        "city": "Paterson",
+        "lat": "45.9370774",
+        "lng": "-119.6028038"
+    },
+    {
+        "state": "Washington",
+        "city": "Hanford",
+        "lat": "46.5837479",
+        "lng": "-119.3877995"
+    },
+    {
+        "state": "Washington",
+        "city": "Island View",
+        "lat": "46.2393015",
+        "lng": "-119.2233487"
+    },
+    {
+        "state": "Washington",
+        "city": "Pataha",
+        "lat": "46.4732085",
+        "lng": "-117.5365741"
+    },
+    {
+        "state": "Washington",
+        "city": "Turner",
+        "lat": "46.4123678",
+        "lng": "-117.8546514"
+    },
+    {
+        "state": "Washington",
+        "city": "Huntsville",
+        "lat": "46.2870844",
+        "lng": "-118.1071708"
+    },
+    {
+        "state": "Washington",
+        "city": "Eureka",
+        "lat": "46.3031926",
+        "lng": "-118.6166537"
+    },
+    {
+        "state": "Washington",
+        "city": "Ayer",
+        "lat": "46.5962541",
+        "lng": "-118.3483072"
+    },
+    {
+        "state": "Washington",
+        "city": "Anatone",
+        "lat": "46.1348764",
+        "lng": "-117.1323791"
+    },
+    {
+        "state": "Washington",
+        "city": "Clarkston Heights",
+        "lat": "46.3962715",
+        "lng": "-117.0823813"
+    },
+    {
+        "state": "Washington",
+        "city": "Hood",
+        "lat": "45.724841",
+        "lng": "-121.5581291"
+    },
+    {
+        "state": "Washington",
+        "city": "Silver Lake",
+        "lat": "46.297334",
+        "lng": "-122.8106679"
+    },
+    {
+        "state": "Washington",
+        "city": "Ariel",
+        "lat": "45.9567789",
+        "lng": "-122.5709345"
+    },
+    {
+        "state": "Washington",
+        "city": "Carrolls",
+        "lat": "46.0715022",
+        "lng": "-122.8623306"
+    },
+    {
+        "state": "Washington",
+        "city": "Lexington",
+        "lat": "46.1873343",
+        "lng": "-122.9053898"
+    },
+    {
+        "state": "Washington",
+        "city": "Ostrander",
+        "lat": "46.1926122",
+        "lng": "-122.8920562"
+    },
+    {
+        "state": "Washington",
+        "city": "Cougar",
+        "lat": "46.0514993",
+        "lng": "-122.2995413"
+    },
+    {
+        "state": "Washington",
+        "city": "Skamokawa",
+        "lat": "46.2703872",
+        "lng": "-123.4570773"
+    },
+    {
+        "state": "Washington",
+        "city": "Chelatchie",
+        "lat": "45.9278898",
+        "lng": "-122.3795412"
+    },
+    {
+        "state": "Washington",
+        "city": "Alderdale",
+        "lat": "45.8348539",
+        "lng": "-119.9208683"
+    },
+    {
+        "state": "Washington",
+        "city": "Goodnoe Hills",
+        "lat": "45.7512379",
+        "lng": "-120.4803299"
+    },
+    {
+        "state": "Washington",
+        "city": "Blockhouse",
+        "lat": "45.8395676",
+        "lng": "-120.9375678"
+    },
+    {
+        "state": "Washington",
+        "city": "Husum",
+        "lat": "45.7992866",
+        "lng": "-121.4870189"
+    },
+    {
+        "state": "Washington",
+        "city": "Laurel",
+        "lat": "45.9440106",
+        "lng": "-121.3800777"
+    },
+    {
+        "state": "Washington",
+        "city": "Swinomish Village",
+        "lat": "48.4081591",
+        "lng": "-122.5112763"
+    },
+    {
+        "state": "Washington",
+        "city": "Harbour Pointe",
+        "lat": "47.8856515",
+        "lng": "-122.3051342"
+    },
+    {
+        "state": "Washington",
+        "city": "John Sam Lake",
+        "lat": "48.1092639",
+        "lng": "-122.2459762"
+    },
+    {
+        "state": "Washington",
+        "city": "Mission Beach",
+        "lat": "48.0487069",
+        "lng": "-122.2729188"
+    },
+    {
+        "state": "Washington",
+        "city": "Priest Point",
+        "lat": "48.0367623",
+        "lng": "-122.2509729"
+    },
+    {
+        "state": "Washington",
+        "city": "Shaker Church",
+        "lat": "48.0525964",
+        "lng": "-122.2284728"
+    },
+    {
+        "state": "Washington",
+        "city": "North Hill",
+        "lat": "47.419266",
+        "lng": "-122.323457"
+    },
+    {
+        "state": "Washington",
+        "city": "Pine Lake",
+        "lat": "47.5787117",
+        "lng": "-122.0462314"
+    },
+    {
+        "state": "Washington",
+        "city": "Sahalee",
+        "lat": "47.6348223",
+        "lng": "-122.0553993"
+    },
+    {
+        "state": "Washington",
+        "city": "Sheridan Beach",
+        "lat": "47.7448201",
+        "lng": "-122.2881823"
+    },
+    {
+        "state": "Washington",
+        "city": "West Lake Sammamish",
+        "lat": "47.5776002",
+        "lng": "-122.1012322"
+    },
+    {
+        "state": "Washington",
+        "city": "Oyehut",
+        "lat": "47.0173089",
+        "lng": "-124.1618415"
+    },
+    {
+        "state": "Washington",
+        "city": "South Broadway",
+        "lat": "46.5662378",
+        "lng": "-120.5167319"
+    },
+    {
+        "state": "Washington",
+        "city": "West Valley",
+        "lat": "46.5920703",
+        "lng": "-120.6050678"
+    },
+    {
+        "state": "Washington",
+        "city": "Satus",
+        "lat": "46.2701301",
+        "lng": "-120.1503258"
+    },
+    {
+        "state": "Washington",
+        "city": "Glenwood",
+        "lat": "46.0187336",
+        "lng": "-121.2906329"
+    },
+    {
+        "state": "Washington",
+        "city": "Clinton",
+        "lat": "47.9784276",
+        "lng": "-122.3556962"
+    },
+    {
+        "state": "Washington",
+        "city": "Adelaide",
+        "lat": "47.3309328",
+        "lng": "-122.3604012"
+    },
+    {
+        "state": "Washington",
+        "city": "Grapeview",
+        "lat": "47.3317616",
+        "lng": "-122.8351404"
+    },
+    {
+        "state": "Washington",
+        "city": "Edmonds",
+        "lat": "47.8106521",
+        "lng": "-122.3773552"
+    },
+    {
+        "state": "Washington",
+        "city": "Woodway",
+        "lat": "47.7962079",
+        "lng": "-122.3829102"
+    },
+    {
+        "state": "Washington",
+        "city": "Georgetown",
+        "lat": "47.3576014",
+        "lng": "-121.973725"
+    },
+    {
+        "state": "Washington",
+        "city": "Ridgecrest",
+        "lat": "47.74732",
+        "lng": "-122.3179056"
+    },
+    {
+        "state": "Washington",
+        "city": "Yoman",
+        "lat": "47.1864854",
+        "lng": "-122.706242"
+    },
+    {
+        "state": "Washington",
+        "city": "Sunnyslope",
+        "lat": "47.5045384",
+        "lng": "-122.7290294"
+    },
+    {
+        "state": "Washington",
+        "city": "Marietta",
+        "lat": "48.7880016517",
+        "lng": "-122.580675863"
+    },
+    {
+        "state": "Washington",
+        "city": "McMurray",
+        "lat": "48.3139292174",
+        "lng": "-122.240740057"
+    },
+    {
+        "state": "Washington",
+        "city": "Nordland",
+        "lat": "48.0509255",
+        "lng": "-122.6909961"
+    },
+    {
+        "state": "Washington",
+        "city": "La Crosse",
+        "lat": "46.8140449",
+        "lng": "-117.8818834"
+    },
+    {
+        "state": "Washington",
+        "city": "Thompson Place",
+        "lat": "47.0553741",
+        "lng": "-122.7834674"
+    }
+]
