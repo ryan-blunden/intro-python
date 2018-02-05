@@ -9,6 +9,7 @@ RUN apt-get update && \
 
 COPY Pipfile Pipfile
 
-RUN pip3 install pip setuptools --upgrade && \
+RUN ln -s /usr/local/bin/python /bin/python && \
+    pip3 install pip setuptools --upgrade && \
     pip3 install pipenv && \
     pipenv install --deploy --system
