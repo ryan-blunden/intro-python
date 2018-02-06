@@ -11,5 +11,8 @@ python_version = '3.6'
 
 [packages]
 
+['dev-packages']
+
 ipython = "*"
+flake8 = "*"
 
