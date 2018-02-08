@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 
 RUN apt-get update && \
     apt-get upgrade -y && \
-    apt-get install --no-install-recommends -y make nano wget jq && \
+    apt-get install --no-install-recommends -y gcc make nano wget jq && \
     rm -rf /var/lib/apt/lists/*
 
 COPY Pipfile Pipfile

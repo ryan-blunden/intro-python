@@ -2,7 +2,7 @@
 # Seattle mood
 #
 # This script takes input from the user about the
-# results of the most recent Mariners and Sea Hawks
+# results of a recent Mariners and Sea Hawks
 # game in order to calculate the mood of the people
 # of Seattle.
 #
@@ -22,7 +22,7 @@ seahawks_win = text_to_boolean(seahawks_win_text)
 mariners_win_text = input('Did the Mariners win? [yes/no]: ')
 mariners_win = text_to_boolean(mariners_win_text)
 
-with open('messages.json', 'r') as messages_file:
+with open('data/messages.json', 'r') as messages_file:
     messages = json.loads(messages_file.read())
 
 # Determine message
