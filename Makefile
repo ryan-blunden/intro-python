@@ -1,10 +1,10 @@
 IMAGE_NAME=rabbitbird/python
 VERSION=1.0
 
-build:
+build-docker:
 	docker image build -t $(IMAGE_NAME):$(VERSION) .
 
-run: build
+run-docker: build-docker
 	docker container run --rm -it -v $(CURDIR):/usr/src/app $(IMAGE_NAME):$(VERSION) bash
 
 lint:

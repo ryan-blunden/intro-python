@@ -1,6 +1,3 @@
-import requests
-
-
 class Location:
     state = None
     city = None

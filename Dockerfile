@@ -1,4 +1,4 @@
-FROM python:3.6.4-slim
+FROM python:3.6.5-slim
 
 WORKDIR /usr/src/app
 
@@ -10,8 +10,7 @@ RUN apt-get update && \
 COPY Pipfile Pipfile
 
 RUN ln -s /usr/local/bin/python /bin/python && \
-    pip3 install pip setuptools --upgrade && \
-    pip3 install pipenv && \
+    pip install pip setuptools --upgrade && \
+    pip install pipenv && \
     pipenv install --deploy --system && \
     pipenv install --dev --deploy --system
-
