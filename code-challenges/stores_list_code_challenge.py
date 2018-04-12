@@ -4,4 +4,3 @@
 #  - Then as a list comprehension.
 #
 # Bonus Challenge:  Iterate through the list of stores, showing which stores which have the `MX Music Experience`.
-
