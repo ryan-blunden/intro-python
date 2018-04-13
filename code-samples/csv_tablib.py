@@ -10,11 +10,11 @@ import tablib
 # Import data from CSV
 usa_cities_dataset = tablib.Dataset().load(open('data/cities.csv').read())
 washington_cities = []
-filter_city = 'Washington'
+filter_state = 'Washington'
 
 # Filter CSV data to only select cities in Washington state
 for city in usa_cities_dataset.dict:
-    if city['state_name'] == filter_city:
+    if city['state_name'] == filter_state:
         washington_cities.append({
             'state': city['state_name'],
             'city': city['city'],
