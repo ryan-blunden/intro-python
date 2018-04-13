@@ -38,7 +38,7 @@ def get_weather_forecast(city: str, country: str, unit: TemperatureUnit = Temper
     units = temp_to_unit_type[unit.name.lower()]
     url = api_path.format(api_host=API_HOST, city=city, country=country, units=units, api_key=API_KEY)
     temp = requests.get(url).json()['list'][0]['main']['temp']
-    return 'It\'s currently {temp}° {unit} in {city},{country}.'.format(
+    return 'It\'s currently {temp}° {unit} in {city}, {country}.'.format(
         temp=round(temp),
         unit=unit.value,
         city=city.capitalize(),
