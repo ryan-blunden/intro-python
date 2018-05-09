@@ -3,7 +3,6 @@
 import os
 from enum import Enum
 
-# Need a valid open weather map api key
 import requests
 
 SAMPLE_DATA_API_KEY = 'b6907d289e10d714a6e88b30761fae22'
@@ -25,8 +24,6 @@ class TemperatureUnit(Enum):
         return ', '.join([unit.value for unit in TemperatureUnit])
 
 
-# TODO: Currently hard-coded to celsius.
-# TODO: Change output message to include unit.
 def get_weather_forecast(city: str, country: str, unit: TemperatureUnit = TemperatureUnit.CELSIUS) -> str:
     api_path = '{api_host}/data/2.5/forecast?q={city},{country}&units={units}&appid={api_key}'
     temp_to_unit_type = {

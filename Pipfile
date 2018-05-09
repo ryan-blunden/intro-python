@@ -8,6 +8,7 @@ python_version = '3.6.5'
 [packages]
 requests = "*"
 tablib = "*"
+records = "*"
 
 ['dev-packages']
 ipython = "*"
