@@ -6,12 +6,16 @@ from enum import Enum
 import requests
 
 SAMPLE_DATA_API_KEY = 'b6907d289e10d714a6e88b30761fae22'
-API_KEY = os.environ.get('OWM_API_KEY', SAMPLE_DATA_API_KEY)
-API_HOST = 'https://api.openweathermap.org'
+API_KEY = os.environ.get('API_KEY', SAMPLE_DATA_API_KEY)
+API_HOST = os.environ.get('API_HOST', 'https://api.openweathermap.org')
 
 # If no API_KEY supplied by user, change API to point to (hard-coded) sample data-set
 if API_KEY == SAMPLE_DATA_API_KEY:
     API_HOST = 'http://samples.openweathermap.org'
+
+
+class APIError(Exception):
+    pass
 
 
 class TemperatureUnit(Enum):
@@ -34,7 +38,11 @@ def get_weather_forecast(city: str, country: str, unit: TemperatureUnit = Temper
 
     units = temp_to_unit_type[unit.name.lower()]
     url = api_path.format(api_host=API_HOST, city=city, country=country, units=units, api_key=API_KEY)
-    temp = requests.get(url).json()['list'][0]['main']['temp']
+    try:
+        json_response = requests.get(url).json()
+        temp = json_response['list'][0]['main']['temp']
+    except KeyError:
+        raise APIError('Request to the Weather API Failed: \n{}'.format(json_response))
     return 'It\'s currently {temp}° {unit} in {city}, {country}.'.format(
         temp=round(temp),
         unit=unit.value,
@@ -44,8 +52,8 @@ def get_weather_forecast(city: str, country: str, unit: TemperatureUnit = Temper
 
 
 if __name__ == '__main__':
-    city = input('City: ').strip().lower()
-    country_code = input('Country Code (2 characters): ').strip().lower()[0:2]
-    temp_unit = TemperatureUnit(input('Unit ({}): '.format(TemperatureUnit.units())).strip().lower())
+    input_city = input('City: ').strip().lower()
+    input_country_code = input('Country Code (2 characters): ').strip().lower()[0:2]
+    input_temp_unit = TemperatureUnit(input('Unit ({}): '.format(TemperatureUnit.units())).strip().lower())
 
-    print(get_weather_forecast(city, country_code, temp_unit))
+    print(get_weather_forecast(input_city, input_country_code, input_temp_unit))

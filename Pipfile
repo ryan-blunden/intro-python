@@ -6,10 +6,15 @@ verify_ssl = true
 python_version = '3.6.5'
 
 [packages]
-requests = "*"
-tablib = "*"
-records = "*"
+requests = '*'
+tablib = '*'
+records = '*'
 
 ['dev-packages']
-ipython = "*"
-flake8 = "*"
+ipython = '*'
+flake8 = '*'
+pytest = '*'
+coverage = '*'
+pytest-spec = '*'
+pytest-xdist = '*'
+pytest-cache = '*'

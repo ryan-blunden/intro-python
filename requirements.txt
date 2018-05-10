@@ -1,0 +1,11 @@
+requests
+tablib
+records
+
+ipython
+flake8
+pytest
+coverage
+pytest-spec
+pytest-xdist
+pytest-cache
