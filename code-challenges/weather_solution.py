@@ -8,7 +8,6 @@ import requests
 SAMPLE_DATA_API_KEY = 'b6907d289e10d714a6e88b30761fae22'
 API_KEY = os.environ.get('API_KEY', SAMPLE_DATA_API_KEY)
 API_HOST = os.environ.get('API_HOST', 'https://api.openweathermap.org')
-
 # If no API_KEY supplied by user, change API to point to (hard-coded) sample data-set
 if API_KEY == SAMPLE_DATA_API_KEY:
     API_HOST = 'http://samples.openweathermap.org'
